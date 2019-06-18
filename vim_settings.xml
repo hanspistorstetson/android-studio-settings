@@ -8,6 +8,18 @@
         <mark key="]" line="10" column="40" />
         <mark key="." line="10" column="0" />
       </file>
+      <file name="$USER_HOME$/Documents/Work/AndroidApp/StetsonAuth/app/src/main/java/edu/stetson/stetsonauth/fragments/account_list/AccountListViewModel.kt" timestamp="1560885883462">
+        <mark key="[" line="116" column="96" />
+        <mark key="]" line="117" column="28" />
+        <mark key="^" line="117" column="28" />
+        <mark key="." line="117" column="28" />
+      </file>
+      <file name="$USER_HOME$/Documents/Work/AndroidApp/StetsonAuth/app/src/main/java/edu/stetson/stetsonauth/biometric/StetsonBiometric.kt" timestamp="1560886645767">
+        <mark key="[" line="54" column="133" />
+        <mark key="]" line="54" column="139" />
+        <mark key="." line="54" column="139" />
+        <mark key="^" line="54" column="139" />
+      </file>
       <file name="$USER_HOME$/Documents/Work/AndroidApp/StetsonAuth/app/src/main/java/edu/stetson/stetsonauth/fragments/account_list/FragmentAccountList.kt" timestamp="1560880831509">
         <mark key="[" line="104" column="0" />
         <mark key="]" line="104" column="0" />
@@ -23,25 +35,31 @@
     <jumps />
     <registers>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgYW5kcm9pZDpsYXlvdXRfaGVpZ2h0PSI1MGRwIgo=</text>
+        <text encoding="base64">ICAgICAgICBBY2NvdW50U2VydmljZS51cGRhdGVTZXNzaW9uKCJEZW55IiwgY2FzTm9uY2UsIGFjY291bnQsIGNvbnRleHQpCg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIH0K</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIFRPRE8oImludmFsaWQgcXIiKQo=</text>
       </register>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIH0K</text>
+      <register name="&quot;" type="4">
+        <text>c</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgaWYgKGRlc3RpbmF0aW9uLmlzTm90RW1wdHkoKSkgewo=</text>
+        <text encoding="base64">ICAgICAgICBUT0RPKCJub3QgaW1wbGVtZW50ZWQiKSAvL1RvIGNoYW5nZSBib2R5IG9mIGNyZWF0ZWQgZnVuY3Rpb25zIHVzZSBGaWxlIHwgU2V0dGluZ3MgfCBGaWxlIFRlbXBsYXRlcy4K</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICApCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIH0K</text>
       </register>
       <register name="4" type="2">
         <text encoding="base64">ICAgICAgICAgICAgaWYgKGRlc3RpbmF0aW9uLmlzTm90RW1wdHkoKSkgewo=</text>
       </register>
+      <register name="5" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICApCg==</text>
+      </register>
+      <register name="6" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgaWYgKGRlc3RpbmF0aW9uLmlzTm90RW1wdHkoKSkgewo=</text>
+      </register>
       <register name="-" type="4">
-        <text encoding="base64">ID86IHJldHVybg==</text>
+        <text>c</text>
       </register>
     </registers>
     <search>

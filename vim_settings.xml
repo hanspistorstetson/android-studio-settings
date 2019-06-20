@@ -40,11 +40,11 @@
         <mark key="]" line="10" column="40" />
         <mark key="." line="10" column="0" />
       </file>
-      <file name="$USER_HOME$/Documents/Work/AndroidApp/StetsonAuth/app/src/main/res/layout/barcode_capture.xml" timestamp="1561047643878">
-        <mark key="[" line="44" column="42" />
-        <mark key="]" line="44" column="41" />
-        <mark key="." line="44" column="41" />
-        <mark key="^" line="44" column="41" />
+      <file name="$USER_HOME$/Documents/Work/AndroidApp/StetsonAuth/app/src/main/res/layout/barcode_capture.xml" timestamp="1561056218257">
+        <mark key="[" line="27" column="0" />
+        <mark key="]" line="27" column="0" />
+        <mark key="." line="27" column="0" />
+        <mark key="^" line="42" column="41" />
       </file>
       <file name="$USER_HOME$/Documents/Work/AndroidApp/StetsonAuth/app/src/main/res/layout/fragment_account_list.xml" timestamp="1561045443428">
         <mark key="[" line="6" column="0" />
@@ -82,34 +82,34 @@
         <text encoding="base64">ICAgICAgICAgICAgYW5kcm9pZDpsYXlvdXRfbWFyZ2luU3RhcnQ9IjgzZHAiCiAgICAgICAgICAgIGFuZHJvaWQ6bGF5b3V0X21hcmdpbkxlZnQ9IjgzZHAiCiAgICAgICAgICAgIGFuZHJvaWQ6bGF5b3V0X21hcmdpbkVuZD0iODNkcCIKICAgICAgICAgICAgYW5kcm9pZDpsYXlvdXRfbWFyZ2luUmlnaHQ9IjgzZHAiCiAgICAgICAgICAgIGFuZHJvaWQ6bGF5b3V0X21hcmdpbkJvdHRvbT0iMTI0ZHAiCg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIF9zaG93U3RhcnR1cE1lc3NhZ2UudmFsdWUgPSB0cnVlCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgYW5kcm9pZDpsYXlvdXRfYWxpZ25QYXJlbnRMZWZ0PSJ0cnVlIgo=</text>
       </register>
-      <register name="&quot;" type="4">
-        <text>TextView</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgYW5kcm9pZDpsYXlvdXRfYWxpZ25QYXJlbnRMZWZ0PSJ0cnVlIgo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgbWFpbgo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgYW5kcm9pZDpsYXlvdXRfYWxpZ25QYXJlbnRSaWdodD0idHJ1ZSIK</text>
       </register>
       <register name="3" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIC5uYXZpZ2F0ZShGcmFnbWVudEFjY291bnRMaXN0RGlyZWN0aW9ucy5hY3Rpb25BY2NvdW50TGlzdEZyYWdtZW50VG9GcmFnbWVudFN0YXJ0dXBNZXNzYWdlKCkpCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIF9zaG93U3RhcnR1cE1lc3NhZ2UudmFsdWUgPSB0cnVlCg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIH0KICAgICAgICAgICAgfQo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgbWFpbgo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgaWYgKCh0aGlzLmFjdGl2aXR5Py5hcHBsaWNhdGlvbiBhcyBTdGV0c29uQXBwbGljYXRpb24pLmhhc1Nob3duU3RhcnR1cE1lc3NhZ2Uubm90KCkpIHsKICAgICAgICAgICAgICAgIGlmICh2aWV3TW9kZWwuYWNjb3VudHMudmFsdWUhIS5pc0VtcHR5KCkpIHsK</text>
-      </register>
-      <register name="7" type="2">
         <text encoding="base64">Cg==</text>
       </register>
+      <register name="7" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgICAgIC5uYXZpZ2F0ZShGcmFnbWVudEFjY291bnRMaXN0RGlyZWN0aW9ucy5hY3Rpb25BY2NvdW50TGlzdEZyYWdtZW50VG9GcmFnbWVudFN0YXJ0dXBNZXNzYWdlKCkpCg==</text>
+      </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICBpZiAoKHRoaXMuYWN0aXZpdHk/LmFwcGxpY2F0aW9uIGFzIFN0ZXRzb25BcHBsaWNhdGlvbikuaGFzU2hvd25TdGFydHVwTWVzc2FnZS5ub3QoKSkgewogICAgICAgICAgICBpZiAodmlld01vZGVsLmFjY291bnRzLnZhbHVlISEuaXNFbXB0eSgpKSB7CiAgICAgICAgICAgICAgICBOYXZpZ2F0aW9uLmZpbmROYXZDb250cm9sbGVyKGJpbmRpbmcuYWNjb3VudExpc3QpCiAgICAgICAgICAgICAgICAgICAgLm5hdmlnYXRlKEZyYWdtZW50QWNjb3VudExpc3REaXJlY3Rpb25zLmFjdGlvbkFjY291bnRMaXN0RnJhZ21lbnRUb0ZyYWdtZW50U3RhcnR1cE1lc3NhZ2UoKSkKICAgICAgICAgICAgfQogICAgICAgIH0K</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIH0KICAgICAgICAgICAgfQo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgaWYgKHZpZXdNb2RlbC5hY2NvdW50cy52YWx1ZSA9PSBudWxsKSAK</text>
+        <text encoding="base64">ICAgICAgICAgICAgaWYgKCh0aGlzLmFjdGl2aXR5Py5hcHBsaWNhdGlvbiBhcyBTdGV0c29uQXBwbGljYXRpb24pLmhhc1Nob3duU3RhcnR1cE1lc3NhZ2Uubm90KCkpIHsKICAgICAgICAgICAgICAgIGlmICh2aWV3TW9kZWwuYWNjb3VudHMudmFsdWUhIS5pc0VtcHR5KCkpIHsK</text>
       </register>
       <register name="-" type="4">
         <text>TextView</text>

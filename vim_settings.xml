@@ -7,27 +7,37 @@
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/Documents/Work/AndroidApp/StetsonAuth/app/src/main/java/edu/stetson/stetsonauth/fragments/account_list/AccountListViewModel.kt" timestamp="1561047452949">
-        <mark key="'" line="159" column="38" />
         <mark key="[" line="69" column="0" />
         <mark key="]" line="69" column="0" />
         <mark key="." line="69" column="0" />
         <mark key="^" line="68" column="49" />
       </file>
-      <file name="$USER_HOME$/Documents/Work/AndroidApp/StetsonAuth/app/src/main/res/layout/fragment_fragment_startup_message.xml" timestamp="1561045333650" />
-      <file name="$USER_HOME$/Documents/Work/AndroidApp/StetsonAuth/app/src/main/java/edu/stetson/stetsonauth/biometric/StetsonBiometric.kt" timestamp="1560886645767">
-        <mark key="[" line="54" column="133" />
-        <mark key="]" line="54" column="139" />
-        <mark key="." line="54" column="139" />
-        <mark key="^" line="54" column="139" />
+      <file name="$USER_HOME$/Documents/Work/AndroidApp/StetsonAuth/app/src/main/java/edu/stetson/stetsonauth/biometric/StetsonBiometric.kt" timestamp="1561995783819">
+        <mark key="[" line="49" column="17" />
+        <mark key="]" line="50" column="50" />
+        <mark key="." line="50" column="50" />
+        <mark key="^" line="50" column="50" />
       </file>
-      <file name="$USER_HOME$/Documents/Work/AndroidApp/StetsonAuth/app/src/main/java/edu/stetson/stetsonauth/fragments/account_list/FragmentAccountList.kt" timestamp="1561047330603">
-        <mark key="[" line="56" column="0" />
-        <mark key="]" line="56" column="0" />
-        <mark key="." line="56" column="0" />
-        <mark key="^" line="55" column="11" />
+      <file name="$USER_HOME$/Documents/Work/AndroidApp/StetsonAuth/app/src/main/java/edu/stetson/stetsonauth/fragments/account_list/FragmentAccountList.kt" timestamp="1561998665882">
+        <mark key="'" line="148" column="63" />
+        <mark key="[" line="131" column="14" />
+        <mark key="]" line="131" column="13" />
+        <mark key="." line="131" column="13" />
+        <mark key="^" line="131" column="13" />
+      </file>
+      <file name="$USER_HOME$/Documents/Work/AndroidApp/StetsonAuth/app/src/main/java/edu/stetson/stetsonauth/firebase/StetsonFirebaseMessagingService.kt" timestamp="1561998331458">
+        <mark key="[" line="100" column="24" />
+        <mark key="]" line="100" column="32" />
+        <mark key="." line="100" column="32" />
+        <mark key="^" line="100" column="32" />
       </file>
       <file name="$USER_HOME$/Documents/Work/AndroidApp/StetsonAuth/app/src/main/java/edu/stetson/stetsonauth/MainActivity.kt" timestamp="1561046468698">
         <mark key="'" line="29" column="33" />
+      </file>
+      <file name="$USER_HOME$/Documents/Work/AndroidApp/StetsonAuth/app/build.gradle" timestamp="1561994094106">
+        <mark key="[" line="71" column="0" />
+        <mark key="]" line="71" column="56" />
+        <mark key="." line="71" column="0" />
       </file>
       <file name="$USER_HOME$/Documents/Work/AndroidApp/StetsonAuth/app/src/main/java/edu/stetson/stetsonauth/fragments/startup_message/FragmentStartupMessage.kt" timestamp="1561046901715">
         <mark key="[" line="33" column="0" />
@@ -76,51 +86,66 @@
       <jump line="29" column="33" filename="$USER_HOME$/Documents/Work/AndroidApp/StetsonAuth/app/src/main/java/edu/stetson/stetsonauth/MainActivity.kt" />
       <jump line="189" column="28" filename="$USER_HOME$/Documents/Work/AndroidApp/StetsonAuth/app/src/main/java/edu/stetson/stetsonauth/fragments/account_list/AccountListViewModel.kt" />
       <jump line="155" column="38" filename="$USER_HOME$/Documents/Work/AndroidApp/StetsonAuth/app/src/main/java/edu/stetson/stetsonauth/fragments/account_list/AccountListViewModel.kt" />
+      <jump line="55" column="19" filename="$USER_HOME$/Documents/Work/AndroidApp/StetsonAuth/app/src/main/java/edu/stetson/stetsonauth/fragments/account_list/FragmentAccountList.kt" />
+      <jump line="99" column="28" filename="$USER_HOME$/Documents/Work/AndroidApp/StetsonAuth/app/src/main/java/edu/stetson/stetsonauth/fragments/account_list/FragmentAccountList.kt" />
+      <jump line="24" column="0" filename="$USER_HOME$/Documents/Work/AndroidApp/StetsonAuth/app/src/main/java/edu/stetson/stetsonauth/fragments/account_list/FragmentAccountList.kt" />
+      <jump line="109" column="0" filename="$USER_HOME$/Documents/Work/AndroidApp/StetsonAuth/app/src/main/java/edu/stetson/stetsonauth/fragments/account_list/FragmentAccountList.kt" />
+      <jump line="144" column="63" filename="$USER_HOME$/Documents/Work/AndroidApp/StetsonAuth/app/src/main/java/edu/stetson/stetsonauth/fragments/account_list/FragmentAccountList.kt" />
+      <jump line="29" column="42" filename="$USER_HOME$/Documents/Work/AndroidApp/StetsonAuth/app/src/main/java/edu/stetson/stetsonauth/firebase/StetsonFirebaseMessagingService.kt" />
     </jumps>
     <registers>
-      <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgYW5kcm9pZDpsYXlvdXRfbWFyZ2luU3RhcnQ9IjgzZHAiCiAgICAgICAgICAgIGFuZHJvaWQ6bGF5b3V0X21hcmdpbkxlZnQ9IjgzZHAiCiAgICAgICAgICAgIGFuZHJvaWQ6bGF5b3V0X21hcmdpbkVuZD0iODNkcCIKICAgICAgICAgICAgYW5kcm9pZDpsYXlvdXRfbWFyZ2luUmlnaHQ9IjgzZHAiCiAgICAgICAgICAgIGFuZHJvaWQ6bGF5b3V0X21hcmdpbkJvdHRvbT0iMTI0ZHAiCg==</text>
-      </register>
-      <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgYW5kcm9pZDpsYXlvdXRfYWxpZ25QYXJlbnRMZWZ0PSJ0cnVlIgo=</text>
-      </register>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgYW5kcm9pZDpsYXlvdXRfYWxpZ25QYXJlbnRMZWZ0PSJ0cnVlIgo=</text>
-      </register>
-      <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgYW5kcm9pZDpsYXlvdXRfYWxpZ25QYXJlbnRSaWdodD0idHJ1ZSIK</text>
-      </register>
-      <register name="3" type="2">
-        <text encoding="base64">Cg==</text>
-      </register>
-      <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIF9zaG93U3RhcnR1cE1lc3NhZ2UudmFsdWUgPSB0cnVlCg==</text>
-      </register>
-      <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgbWFpbgo=</text>
-      </register>
-      <register name="6" type="2">
-        <text encoding="base64">Cg==</text>
-      </register>
-      <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIC5uYXZpZ2F0ZShGcmFnbWVudEFjY291bnRMaXN0RGlyZWN0aW9ucy5hY3Rpb25BY2NvdW50TGlzdEZyYWdtZW50VG9GcmFnbWVudFN0YXJ0dXBNZXNzYWdlKCkpCg==</text>
-      </register>
-      <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIH0KICAgICAgICAgICAgfQo=</text>
-      </register>
-      <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgaWYgKCh0aGlzLmFjdGl2aXR5Py5hcHBsaWNhdGlvbiBhcyBTdGV0c29uQXBwbGljYXRpb24pLmhhc1Nob3duU3RhcnR1cE1lc3NhZ2Uubm90KCkpIHsKICAgICAgICAgICAgICAgIGlmICh2aWV3TW9kZWwuYWNjb3VudHMudmFsdWUhIS5pc0VtcHR5KCkpIHsK</text>
+      <register name="&quot;" type="4">
+        <text>else if (destination == &quot;accountList&quot;) {d</text>
       </register>
       <register name="-" type="4">
-        <text>TextView</text>
+        <text>else if (destination == &quot;accountList&quot;) {d</text>
+      </register>
+      <register name="/" type="4">
+        <text>Deep</text>
+      </register>
+      <register name="0" type="4">
+        <text>Intent(applicationContext, MainActivity::class.java)</text>
+      </register>
+      <register name="1" type="2">
+        <text encoding="base64">Cg==</text>
+      </register>
+      <register name="2" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgfQo=</text>
+      </register>
+      <register name="3" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgaW50ZW50LnJlbW92ZUV4dHJhKCJkZXN0aW5hdGlvbiIpCg==</text>
+      </register>
+      <register name="4" type="2">
+        <text encoding="base64">fQo=</text>
+      </register>
+      <register name="5" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgewo=</text>
+      </register>
+      <register name="6" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgICAgIHZhbCBkZXN0aW5hdGlvbiA9IGludGVudC5nZXRTdHJpbmdFeHRyYSgiZGVzdGluYXRpb24iKSA/OiByZXR1cm4KICAgICAgICAgICAgICAgIExvZy5kKFRBRywgImRlc3RpbmF0aW9uOiAkZGVzdGluYXRpb24iKQo=</text>
+      </register>
+      <register name="7" type="2">
+        <text encoding="base64">ICAgICAgICBpZiAoaXNGb3JlZ3JvdW5kKCkpIHsKICAgICAgICAgICAgdmFsIGludGVudCA9IEludGVudCgic2hvdy1iaW9tZXRyaWMiKQogICAgICAgIH0gZWxzZSB7CiAgICAgICAgICAgIHZhbCBpbnRlbnQgPSBJbnRlbnQoYXBwbGljYXRpb25Db250ZXh0LCBNYWluQWN0aXZpdHk6OmNsYXNzLmphdmEpCiAgICAgICAgfQo=</text>
+      </register>
+      <register name="8" type="2">
+        <text encoding="base64">Cg==</text>
+      </register>
+      <register name="9" type="2">
+        <text encoding="base64">ICAgICAgICB2YWwgaW50ZW50ID0gSW50ZW50KCJzaG93LWJpb21ldHJpYyIpCg==</text>
       </register>
     </registers>
     <search>
-      <last-dir>0</last-dir>
+      <last-search>Deep</last-search>
+      <last-offset />
+      <last-pattern>Deep</last-pattern>
+      <last-dir>1</last-dir>
       <show-last>false</show-last>
     </search>
     <history>
-      <history-search />
+      <history-search>
+        <entry>deep</entry>
+        <entry>Deep</entry>
+      </history-search>
       <history-cmd />
       <history-expr />
       <history-input />

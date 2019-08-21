@@ -1,155 +1,6 @@
 <application>
   <component name="VimSettings">
-    <state version="4" enabled="true" />
-    <globalmarks />
-    <filemarks>
-      <file name="/Dummy.txt" timestamp="1561045292854">
-        <mark key="[" line="0" column="0" />
-      </file>
-      <file name="$USER_HOME$/Documents/Work/AndroidApp/StetsonAuth/app/src/main/java/edu/stetson/stetsonauth/fragments/account_list/AccountListViewModel.kt" timestamp="1561047452949">
-        <mark key="[" line="69" column="0" />
-        <mark key="]" line="69" column="0" />
-        <mark key="." line="69" column="0" />
-        <mark key="^" line="68" column="49" />
-      </file>
-      <file name="$USER_HOME$/Documents/Work/AndroidApp/StetsonAuth/app/src/main/java/edu/stetson/stetsonauth/biometric/StetsonBiometric.kt" timestamp="1561995783819">
-        <mark key="[" line="49" column="17" />
-        <mark key="]" line="50" column="50" />
-        <mark key="." line="50" column="50" />
-        <mark key="^" line="50" column="50" />
-      </file>
-      <file name="$USER_HOME$/Documents/Work/AndroidApp/StetsonAuth/app/src/main/java/edu/stetson/stetsonauth/fragments/account_list/FragmentAccountList.kt" timestamp="1561998665882">
-        <mark key="'" line="148" column="63" />
-        <mark key="[" line="131" column="14" />
-        <mark key="]" line="131" column="13" />
-        <mark key="." line="131" column="13" />
-        <mark key="^" line="131" column="13" />
-      </file>
-      <file name="$USER_HOME$/Documents/Work/AndroidApp/StetsonAuth/app/src/main/java/edu/stetson/stetsonauth/firebase/StetsonFirebaseMessagingService.kt" timestamp="1561998331458">
-        <mark key="[" line="100" column="24" />
-        <mark key="]" line="100" column="32" />
-        <mark key="." line="100" column="32" />
-        <mark key="^" line="100" column="32" />
-      </file>
-      <file name="$USER_HOME$/Documents/Work/AndroidApp/StetsonAuth/app/src/main/java/edu/stetson/stetsonauth/MainActivity.kt" timestamp="1561046468698">
-        <mark key="'" line="29" column="33" />
-      </file>
-      <file name="$USER_HOME$/Documents/Work/AndroidApp/StetsonAuth/app/build.gradle" timestamp="1561994094106">
-        <mark key="[" line="71" column="0" />
-        <mark key="]" line="71" column="56" />
-        <mark key="." line="71" column="0" />
-      </file>
-      <file name="$USER_HOME$/Documents/Work/AndroidApp/StetsonAuth/app/src/main/java/edu/stetson/stetsonauth/fragments/startup_message/FragmentStartupMessage.kt" timestamp="1561046901715">
-        <mark key="[" line="33" column="0" />
-        <mark key="]" line="33" column="0" />
-        <mark key="^" line="37" column="26" />
-        <mark key="." line="33" column="0" />
-      </file>
-      <file name="$USER_HOME$/Documents/Work/AndroidApp/StetsonAuth/app/src/main/res/layout/account_input_form.xml" timestamp="1560282420121">
-        <mark key="[" line="10" column="0" />
-        <mark key="]" line="10" column="40" />
-        <mark key="." line="10" column="0" />
-      </file>
-      <file name="$USER_HOME$/Documents/Work/AndroidApp/StetsonAuth/app/src/main/res/layout/barcode_capture.xml" timestamp="1561056218257">
-        <mark key="[" line="27" column="0" />
-        <mark key="]" line="27" column="0" />
-        <mark key="." line="27" column="0" />
-        <mark key="^" line="42" column="41" />
-      </file>
-      <file name="$USER_HOME$/Documents/Work/AndroidApp/StetsonAuth/app/src/main/res/layout/fragment_account_list.xml" timestamp="1561045443428">
-        <mark key="[" line="6" column="0" />
-        <mark key="]" line="6" column="0" />
-        <mark key="." line="6" column="0" />
-      </file>
-      <file name="$USER_HOME$/Documents/Work/AndroidApp/StetsonAuth/app/src/main/res/layout/fragment_startup_message.xml" timestamp="1561046215092">
-        <mark key="'" line="6" column="0" />
-        <mark key="[" line="48" column="0" />
-        <mark key="]" line="48" column="0" />
-        <mark key="." line="48" column="0" />
-      </file>
-      <file name="/fragment.java" timestamp="1561046108690">
-        <mark key="[" line="0" column="0" />
-      </file>
-      <file name="$USER_HOME$/Documents/Work/AndroidApp/StetsonAuth/app/src/main/res/layout/fragment_account_push.xml" timestamp="1561046159064">
-        <mark key="'" line="113" column="61" />
-      </file>
-      <file name="$USER_HOME$/Documents/Work/AndroidApp/StetsonAuth/app/src/main/java/edu/stetson/stetsonauth/StetsonApplication.kt" timestamp="1561044274674">
-        <mark key="[" line="13" column="39" />
-        <mark key="]" line="13" column="46" />
-        <mark key="^" line="13" column="46" />
-        <mark key="." line="13" column="46" />
-      </file>
-    </filemarks>
-    <jumps>
-      <jump line="6" column="0" filename="$USER_HOME$/Documents/Work/AndroidApp/StetsonAuth/app/src/main/res/layout/fragment_startup_message.xml" />
-      <jump line="113" column="61" filename="$USER_HOME$/Documents/Work/AndroidApp/StetsonAuth/app/src/main/res/layout/fragment_account_push.xml" />
-      <jump line="29" column="33" filename="$USER_HOME$/Documents/Work/AndroidApp/StetsonAuth/app/src/main/java/edu/stetson/stetsonauth/MainActivity.kt" />
-      <jump line="189" column="28" filename="$USER_HOME$/Documents/Work/AndroidApp/StetsonAuth/app/src/main/java/edu/stetson/stetsonauth/fragments/account_list/AccountListViewModel.kt" />
-      <jump line="155" column="38" filename="$USER_HOME$/Documents/Work/AndroidApp/StetsonAuth/app/src/main/java/edu/stetson/stetsonauth/fragments/account_list/AccountListViewModel.kt" />
-      <jump line="55" column="19" filename="$USER_HOME$/Documents/Work/AndroidApp/StetsonAuth/app/src/main/java/edu/stetson/stetsonauth/fragments/account_list/FragmentAccountList.kt" />
-      <jump line="99" column="28" filename="$USER_HOME$/Documents/Work/AndroidApp/StetsonAuth/app/src/main/java/edu/stetson/stetsonauth/fragments/account_list/FragmentAccountList.kt" />
-      <jump line="24" column="0" filename="$USER_HOME$/Documents/Work/AndroidApp/StetsonAuth/app/src/main/java/edu/stetson/stetsonauth/fragments/account_list/FragmentAccountList.kt" />
-      <jump line="109" column="0" filename="$USER_HOME$/Documents/Work/AndroidApp/StetsonAuth/app/src/main/java/edu/stetson/stetsonauth/fragments/account_list/FragmentAccountList.kt" />
-      <jump line="144" column="63" filename="$USER_HOME$/Documents/Work/AndroidApp/StetsonAuth/app/src/main/java/edu/stetson/stetsonauth/fragments/account_list/FragmentAccountList.kt" />
-      <jump line="29" column="42" filename="$USER_HOME$/Documents/Work/AndroidApp/StetsonAuth/app/src/main/java/edu/stetson/stetsonauth/firebase/StetsonFirebaseMessagingService.kt" />
-    </jumps>
-    <registers>
-      <register name="&quot;" type="4">
-        <text>else if (destination == &quot;accountList&quot;) {d</text>
-      </register>
-      <register name="-" type="4">
-        <text>else if (destination == &quot;accountList&quot;) {d</text>
-      </register>
-      <register name="/" type="4">
-        <text>Deep</text>
-      </register>
-      <register name="0" type="4">
-        <text>Intent(applicationContext, MainActivity::class.java)</text>
-      </register>
-      <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
-      </register>
-      <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgfQo=</text>
-      </register>
-      <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgaW50ZW50LnJlbW92ZUV4dHJhKCJkZXN0aW5hdGlvbiIpCg==</text>
-      </register>
-      <register name="4" type="2">
-        <text encoding="base64">fQo=</text>
-      </register>
-      <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgewo=</text>
-      </register>
-      <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIHZhbCBkZXN0aW5hdGlvbiA9IGludGVudC5nZXRTdHJpbmdFeHRyYSgiZGVzdGluYXRpb24iKSA/OiByZXR1cm4KICAgICAgICAgICAgICAgIExvZy5kKFRBRywgImRlc3RpbmF0aW9uOiAkZGVzdGluYXRpb24iKQo=</text>
-      </register>
-      <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICBpZiAoaXNGb3JlZ3JvdW5kKCkpIHsKICAgICAgICAgICAgdmFsIGludGVudCA9IEludGVudCgic2hvdy1iaW9tZXRyaWMiKQogICAgICAgIH0gZWxzZSB7CiAgICAgICAgICAgIHZhbCBpbnRlbnQgPSBJbnRlbnQoYXBwbGljYXRpb25Db250ZXh0LCBNYWluQWN0aXZpdHk6OmNsYXNzLmphdmEpCiAgICAgICAgfQo=</text>
-      </register>
-      <register name="8" type="2">
-        <text encoding="base64">Cg==</text>
-      </register>
-      <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICB2YWwgaW50ZW50ID0gSW50ZW50KCJzaG93LWJpb21ldHJpYyIpCg==</text>
-      </register>
-    </registers>
-    <search>
-      <last-search>Deep</last-search>
-      <last-offset />
-      <last-pattern>Deep</last-pattern>
-      <last-dir>1</last-dir>
-      <show-last>false</show-last>
-    </search>
-    <history>
-      <history-search>
-        <entry>deep</entry>
-        <entry>Deep</entry>
-      </history-search>
-      <history-cmd />
-      <history-expr />
-      <history-input />
-    </history>
+    <state version="5" enabled="true" />
     <shortcut-conflicts>
       <shortcut-conflict owner="vim">
         <text>ctrl pressed S</text>
@@ -178,6 +29,15 @@
       <shortcut-conflict owner="vim">
         <text>ctrl pressed C</text>
       </shortcut-conflict>
+      <shortcut-conflict owner="vim">
+        <text>ctrl pressed A</text>
+      </shortcut-conflict>
     </shortcut-conflicts>
+    <editor />
+    <notifications>
+      <idea-join enabled="false" />
+      <idea-put enabled="false" />
+      <template-selectmode enabled="false" />
+    </notifications>
   </component>
 </application>

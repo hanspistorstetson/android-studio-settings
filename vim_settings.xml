@@ -1,399 +1,18 @@
 <application>
   <component name="VimSettings">
-    <state version="4" enabled="true" />
-    <globalmarks />
-    <filemarks>
-      <file name="$USER_HOME$/IdeaProjects/hansjavalin/src/main/java/HelloWorld.kt" timestamp="1560268746431">
-        <mark key="[" line="0" column="0" />
-        <mark key="]" line="0" column="0" />
-        <mark key="." line="0" column="0" />
-      </file>
-      <file name="$USER_HOME$/IdeaProjects/hansjavalin/src/main/java/Collaboration.kt" timestamp="1560269133547">
-        <mark key="'" line="34" column="8" />
-        <mark key="[" line="35" column="15" />
-        <mark key="]" line="35" column="15" />
-        <mark key="^" line="35" column="15" />
-        <mark key="." line="35" column="15" />
-      </file>
-      <file name="$USER_HOME$/Documents/Work/AndroidApp/StetsonAuth/app/src/main/java/edu/stetson/stetsonauth/database/AccountDao.kt" timestamp="1560188674786">
-        <mark key="[" line="6" column="23" />
-        <mark key="]" line="6" column="22" />
-        <mark key="." line="6" column="22" />
-        <mark key="^" line="6" column="22" />
-      </file>
-      <file name="$USER_HOME$/IdeaProjects/kotlin-boot/src/main/kotlin/GreetingController.kt" timestamp="1560279339736">
-        <mark key="[" line="11" column="84" />
-        <mark key="]" line="11" column="135" />
-        <mark key="^" line="11" column="135" />
-        <mark key="." line="11" column="135" />
-      </file>
-      <file name="$USER_HOME$/Documents/Work/AndroidApp/StetsonAuth/app/build/tmp/kapt3/stubs/debug/edu/stetson/stetsonauth/database/AccountDatabaseDao.java" timestamp="1559663524981">
-        <mark key="[" line="24" column="75" />
-        <mark key="]" line="24" column="75" />
-        <mark key="^" line="24" column="75" />
-        <mark key="." line="24" column="75" />
-      </file>
-      <file name="$USER_HOME$/Documents/Work/AndroidApp/StetsonAuth/app/src/main/java/edu/stetson/stetsonauth/database/AccountDatabase.kt" timestamp="1560192084310">
-        <mark key="[" line="7" column="50" />
-        <mark key="]" line="7" column="49" />
-        <mark key="^" line="7" column="49" />
-        <mark key="." line="7" column="49" />
-      </file>
-      <file name="$USER_HOME$/Documents/Work/AndroidApp/StetsonAuth/app/src/main/java/edu/stetson/stetsonauth/fragments/account_list/AccountListAdapter.kt" timestamp="1559676885513">
-        <mark key="'" line="35" column="42" />
-        <mark key="[" line="14" column="25" />
-        <mark key="]" line="14" column="32" />
-        <mark key="." line="14" column="32" />
-        <mark key="^" line="14" column="32" />
-      </file>
-      <file name="$USER_HOME$/Documents/Work/AndroidApp/StetsonAuth/app/src/main/java/edu/stetson/stetsonauth/database/Account.kt" timestamp="1560193502275">
-        <mark key="'" line="28" column="21" />
-        <mark key="[" line="40" column="22" />
-        <mark key="]" line="41" column="16" />
-        <mark key="." line="41" column="16" />
-        <mark key="^" line="41" column="16" />
-      </file>
-      <file name="$USER_HOME$/IdeaProjects/kotlin-boot/build.gradle" timestamp="1560279379225">
-        <mark key="[" line="0" column="0" />
-        <mark key="]" line="31" column="0" />
-        <mark key="." line="31" column="0" />
-        <mark key="^" line="31" column="0" />
-      </file>
-      <file name="$USER_HOME$/Documents/Work/AndroidApp/StetsonAuth/app/build.gradle" timestamp="1560192760135">
-        <mark key="'" line="3" column="22" />
-        <mark key="[" line="18" column="0" />
-        <mark key="]" line="18" column="0" />
-        <mark key="." line="18" column="0" />
-        <mark key="^" line="54" column="51" />
-      </file>
-      <file name="$USER_HOME$/IdeaProjects/javalin/src/main/kotlin/HelloWorld.kt" timestamp="1560268182026">
-        <mark key="'" line="0" column="10" />
-        <mark key="[" line="0" column="0" />
-        <mark key="]" line="7" column="1" />
-        <mark key="." line="5" column="32" />
-        <mark key="^" line="5" column="32" />
-      </file>
-      <file name="$USER_HOME$/Documents/Work/AndroidApp/StetsonAuth/app/src/main/java/edu/stetson/stetsonauth/database/AccountDatabaseDao.kt" timestamp="1559674872112">
-        <mark key="[" line="9" column="49" />
-        <mark key="]" line="9" column="49" />
-        <mark key="^" line="9" column="50" />
-        <mark key="." line="9" column="49" />
-      </file>
-      <file name="$USER_HOME$/IdeaProjects/javalin/src/main/kotlin/edu/stetson/hanspistor/javalin/HelloWorld.kt" timestamp="1560268184346">
-        <mark key="[" line="2" column="0" />
-        <mark key="]" line="2" column="0" />
-        <mark key="." line="2" column="0" />
-      </file>
-      <file name="$USER_HOME$/IdeaProjects/helloworld/src/main/kotlin/HelloWorld.kt" timestamp="1560268429870">
-        <mark key="[" line="0" column="0" />
-      </file>
-      <file name="$USER_HOME$/IdeaProjects/javalin/build.gradle" timestamp="1560268206074">
-        <mark key="[" line="4" column="10" />
-        <mark key="]" line="4" column="11" />
-        <mark key="^" line="5" column="26" />
-        <mark key="." line="4" column="11" />
-      </file>
-      <file name="$USER_HOME$/IdeaProjects/kotlin-boot/src/main/kotlin/Application.kt" timestamp="1560279466944">
-        <mark key="[" line="6" column="29" />
-        <mark key="]" line="7" column="55" />
-        <mark key="^" line="7" column="55" />
-        <mark key="." line="7" column="55" />
-      </file>
-      <file name="$USER_HOME$/Documents/Work/AndroidApp/StetsonAuth/build.gradle" timestamp="1560264007227">
-        <mark key="'" line="11" column="11" />
-        <mark key="[" line="7" column="31" />
-        <mark key="]" line="7" column="33" />
-        <mark key="." line="7" column="33" />
-        <mark key="^" line="7" column="33" />
-      </file>
-      <file name="$USER_HOME$/Documents/Work/AndroidApp/StetsonAuth/app/src/main/java/edu/stetson/stetsonauth/networking/AccountService.kt" timestamp="1559672240084">
-        <mark key="'" line="101" column="21" />
-        <mark key="[" line="45" column="0" />
-        <mark key="]" line="45" column="0" />
-        <mark key="." line="45" column="0" />
-        <mark key="^" line="20" column="11" />
-      </file>
-      <file name="$USER_HOME$/Documents/Work/AndroidApp/StetsonAuth/app/src/main/java/edu/stetson/stetsonauth/database/RealmLiveData.kt" timestamp="1560188625048">
-        <mark key="[" line="9" column="6" />
-        <mark key="]" line="9" column="18" />
-        <mark key="." line="9" column="18" />
-        <mark key="^" line="9" column="18" />
-      </file>
-      <file name="$USER_HOME$/Documents/Work/AndroidApp/StetsonAuth/app/src/main/java/edu/stetson/stetsonauth/camera/BarcodeCaptureActivity.java" timestamp="1560190591074">
-        <mark key="[" line="118" column="34" />
-        <mark key="]" line="118" column="34" />
-        <mark key="." line="118" column="34" />
-        <mark key="^" line="118" column="34" />
-      </file>
-      <file name="/Dummy.txt" timestamp="1560267841179">
-        <mark key="[" line="0" column="0" />
-      </file>
-      <file name="$USER_HOME$/Documents/Work/AndroidApp/StetsonAuth/app/src/main/java/edu/stetson/stetsonauth/fragments/account_list/AccountListViewModel.kt" timestamp="1559675340329">
-        <mark key="'" line="60" column="45" />
-        <mark key="[" line="67" column="110" />
-        <mark key="]" line="67" column="109" />
-        <mark key="." line="67" column="109" />
-        <mark key="^" line="67" column="109" />
-      </file>
-      <file name="$USER_HOME$/IdeaProjects/hansjavalin/pom.xml" timestamp="1560268778818">
-        <mark key="[" line="24" column="21" />
-        <mark key="]" line="29" column="20" />
-        <mark key="^" line="29" column="20" />
-        <mark key="." line="29" column="20" />
-      </file>
-      <file name="$USER_HOME$/IdeaProjects/hansjavalin/src/main/resources/public/index.html" timestamp="1560269303093">
-        <mark key="[" line="23" column="52" />
-        <mark key="]" line="23" column="51" />
-        <mark key="." line="23" column="51" />
-        <mark key="^" line="23" column="51" />
-      </file>
-      <file name="$USER_HOME$/Documents/Work/AndroidApp/StetsonAuth/app/src/main/java/edu/stetson/stetsonauth/biometric/StetsonBiometric.kt" timestamp="1559158242087">
-        <mark key="[" line="78" column="47" />
-        <mark key="]" line="78" column="47" />
-        <mark key="." line="78" column="47" />
-        <mark key="^" line="78" column="47" />
-      </file>
-      <file name="$USER_HOME$/Documents/Work/AndroidApp/StetsonAuth/app/src/main/java/edu/stetson/stetsonauth/database/RealmDao.kt" timestamp="1560189505036">
-        <mark key="[" line="10" column="0" />
-        <mark key="]" line="10" column="0" />
-        <mark key="^" line="10" column="53" />
-        <mark key="." line="10" column="0" />
-      </file>
-      <file name="$USER_HOME$/IdeaProjects/helloworld/build.gradle" timestamp="1560268413317">
-        <mark key="[" line="12" column="60" />
-        <mark key="]" line="13" column="37" />
-        <mark key="^" line="13" column="37" />
-        <mark key="." line="13" column="37" />
-      </file>
-      <file name="$USER_HOME$/Documents/Work/AndroidApp/StetsonAuth/app/src/main/java/edu/stetson/stetsonauth/fragments/account_list/FragmentAccountList.kt" timestamp="1560264071575">
-        <mark key="'" line="95" column="7" />
-        <mark key="[" line="91" column="69" />
-        <mark key="]" line="91" column="69" />
-        <mark key="." line="91" column="69" />
-        <mark key="^" line="91" column="69" />
-      </file>
-      <file name="$USER_HOME$/Documents/Work/AndroidApp/StetsonAuth/app/src/main/java/edu/stetson/stetsonauth/firebase/StetsonFirebaseMessagingService.kt" timestamp="1559675264998">
-        <mark key="'" line="63" column="10" />
-        <mark key="[" line="51" column="33" />
-        <mark key="]" line="51" column="34" />
-        <mark key="." line="51" column="34" />
-        <mark key="^" line="51" column="34" />
-      </file>
-      <file name="$USER_HOME$/IdeaProjects/kotlin-boot/src/main/kotlin/Greeting.kt" timestamp="1560279282941">
-        <mark key="[" line="0" column="0" />
-        <mark key="]" line="0" column="52" />
-        <mark key="^" line="0" column="52" />
-        <mark key="." line="0" column="52" />
-      </file>
-      <file name="$USER_HOME$/Documents/Work/AndroidApp/StetsonAuth/app/src/main/AndroidManifest.xml" timestamp="1559663461599">
-        <mark key="'" line="5" column="9" />
-        <mark key="[" line="33" column="0" />
-        <mark key="]" line="33" column="52" />
-        <mark key="." line="33" column="0" />
-        <mark key="^" line="15" column="50" />
-      </file>
-      <file name="$USER_HOME$/Documents/Work/AndroidApp/StetsonAuth/app/src/main/java/edu/stetson/stetsonauth/database/AccountLiveData.kt" timestamp="1560188576624">
-        <mark key="[" line="18" column="31" />
-        <mark key="]" line="19" column="49" />
-        <mark key="." line="19" column="49" />
-        <mark key="^" line="19" column="49" />
-      </file>
-      <file name="/fragment.java" timestamp="1560188467574">
-        <mark key="[" line="0" column="0" />
-      </file>
-    </filemarks>
-    <jumps>
-      <jump line="26" column="13" filename="$USER_HOME$/Documents/Work/AndroidApp/StetsonAuth/app/src/main/java/edu/stetson/stetsonauth/fragments/account_list/FragmentAccountList.kt" />
-      <jump line="61" column="0" filename="$USER_HOME$/Documents/Work/AndroidApp/StetsonAuth/app/src/main/java/edu/stetson/stetsonauth/fragments/account_list/FragmentAccountList.kt" />
-      <jump line="61" column="20" filename="$USER_HOME$/Documents/Work/AndroidApp/StetsonAuth/app/src/main/java/edu/stetson/stetsonauth/fragments/account_list/AccountListViewModel.kt" />
-      <jump line="24" column="20" filename="$USER_HOME$/Documents/Work/AndroidApp/StetsonAuth/app/src/main/java/edu/stetson/stetsonauth/fragments/account_list/AccountListViewModel.kt" />
-      <jump line="71" column="78" filename="$USER_HOME$/Documents/Work/AndroidApp/StetsonAuth/app/build.gradle" />
-      <jump line="79" column="23" filename="$USER_HOME$/Documents/Work/AndroidApp/StetsonAuth/app/src/main/java/edu/stetson/stetsonauth/fragments/account_list/AccountListViewModel.kt" />
-      <jump line="14" column="30" filename="$USER_HOME$/Documents/Work/AndroidApp/StetsonAuth/app/src/main/java/edu/stetson/stetsonauth/networking/AccountApiService.kt" />
-      <jump line="66" column="60" filename="$USER_HOME$/Documents/Work/AndroidApp/StetsonAuth/app/src/main/java/edu/stetson/stetsonauth/fragments/account_list/AccountListViewModel.kt" />
-      <jump line="8" column="30" filename="$USER_HOME$/Documents/Work/AndroidApp/StetsonAuth/app/src/main/java/edu/stetson/stetsonauth/fragments/account_list/AccountListViewModel.kt" />
-      <jump line="70" column="12" filename="$USER_HOME$/Documents/Work/AndroidApp/StetsonAuth/app/src/main/java/edu/stetson/stetsonauth/fragments/account_list/AccountListViewModel.kt" />
-      <jump line="121" column="0" filename="$USER_HOME$/Documents/Work/AndroidApp/StetsonAuth/app/src/main/java/edu/stetson/stetsonauth/fragments/account_list/AccountListViewModel.kt" />
-      <jump line="0" column="0" filename="$USER_HOME$/Documents/Work/AndroidApp/StetsonAuth/app/src/main/java/edu/stetson/stetsonauth/fragments/account_list/AccountListViewModel.kt" />
-      <jump line="22" column="64" filename="$USER_HOME$/Documents/Work/AndroidApp/StetsonAuth/app/src/main/java/edu/stetson/stetsonauth/fragments/account_list/AccountListViewModel.kt" />
-      <jump line="40" column="24" filename="$USER_HOME$/Documents/Work/AndroidApp/StetsonAuth/app/src/main/java/edu/stetson/stetsonauth/fragments/account_list/AccountListViewModel.kt" />
-      <jump line="44" column="45" filename="$USER_HOME$/Documents/Work/AndroidApp/StetsonAuth/app/src/main/java/edu/stetson/stetsonauth/MainActivity.kt" />
-      <jump line="93" column="16" filename="$USER_HOME$/Documents/Work/AndroidApp/StetsonAuth/app/src/main/res/layout/list_item_account.xml" />
-      <jump line="81" column="4" filename="$USER_HOME$/Documents/Work/AndroidApp/AndroidRewrite/app/src/main/java/edu/stetson/stetsonauth/activities/home/HomeActivity.kt" />
-      <jump line="138" column="0" filename="$USER_HOME$/Documents/Work/AndroidApp/AndroidRewrite/app/src/main/java/edu/stetson/stetsonauth/activities/home/HomeActivity.kt" />
-      <jump line="15" column="0" filename="$USER_HOME$/Documents/Work/AndroidApp/StetsonAuth/app/src/main/java/edu/stetson/stetsonauth/components/CustomProgressBar.kt" />
-      <jump line="38" column="58" filename="$USER_HOME$/Documents/Work/AndroidApp/AndroidRewrite/app/src/main/java/edu/stetson/stetsonauth/activities/home/HomeActivity.kt" />
-      <jump line="73" column="48" filename="$USER_HOME$/Documents/Work/AndroidApp/StetsonAuth/app/src/main/java/edu/stetson/stetsonauth/fragments/account_list/AccountListViewModel.kt" />
-      <jump line="7" column="13" filename="$USER_HOME$/Documents/Work/AndroidApp/StetsonAuth/app/src/main/java/edu/stetson/stetsonauth/utils/Utils.kt" />
-      <jump line="11" column="30" filename="$USER_HOME$/Documents/Work/AndroidApp/StetsonAuth/app/src/main/java/edu/stetson/stetsonauth/fragments/account_list/AccountListViewModelFactory.kt" />
-      <jump line="29" column="0" filename="$USER_HOME$/Documents/Work/AndroidApp/StetsonAuth/app/src/main/java/edu/stetson/stetsonauth/MainActivityViewModel.kt" />
-      <jump line="26" column="0" filename="$USER_HOME$/Documents/Work/AndroidApp/StetsonAuth/app/src/main/java/edu/stetson/stetsonauth/fragments/account_list/AccountListViewModel.kt" />
-      <jump line="22" column="23" filename="$USER_HOME$/Documents/Work/AndroidApp/StetsonAuth/app/src/main/java/edu/stetson/stetsonauth/MainActivityViewModel.kt" />
-      <jump line="31" column="0" filename="$USER_HOME$/Documents/Work/AndroidApp/StetsonAuth/app/src/main/java/edu/stetson/stetsonauth/fragments/account_list/AccountListViewModel.kt" />
-      <jump line="68" column="12" filename="$USER_HOME$/Documents/Work/AndroidApp/StetsonAuth/app/src/main/java/edu/stetson/stetsonauth/fragments/account_list/AccountListViewModel.kt" />
-      <jump line="9" column="22" filename="$USER_HOME$/Documents/Work/AndroidApp/StetsonAuth/app/src/main/java/edu/stetson/stetsonauth/networking/AccountService.kt" />
-      <jump line="35" column="55" filename="$USER_HOME$/Documents/Work/AndroidApp/StetsonAuth/app/src/main/java/edu/stetson/stetsonauth/MainActivityViewModel.kt" />
-      <jump line="14" column="65" filename="$USER_HOME$/Documents/Work/AndroidApp/StetsonAuth/app/src/main/java/edu/stetson/stetsonauth/MainActivityViewModel.kt" />
-      <jump line="15" column="21" filename="$USER_HOME$/Documents/Work/AndroidApp/StetsonAuth/app/src/main/java/edu/stetson/stetsonauth/networking/AccountService.kt" />
-      <jump line="39" column="4" filename="$USER_HOME$/Documents/Work/AndroidApp/StetsonAuth/app/src/main/java/edu/stetson/stetsonauth/networking/AccountService.kt" />
-      <jump line="23" column="18" filename="$USER_HOME$/Documents/Work/AndroidApp/StetsonAuth/app/src/main/java/edu/stetson/stetsonauth/MainActivityViewModel.kt" />
-      <jump line="19" column="8" filename="$USER_HOME$/Documents/Work/AndroidApp/StetsonAuth/app/src/main/java/edu/stetson/stetsonauth/MainActivityViewModel.kt" />
-      <jump line="34" column="16" filename="$USER_HOME$/Documents/Work/AndroidApp/StetsonAuth/app/src/main/java/edu/stetson/stetsonauth/networking/AccountService.kt" />
-      <jump line="146" column="16" filename="$USER_HOME$/Documents/Work/AndroidApp/AndroidRewrite/app/src/main/java/edu/stetson/stetsonauth/activities/home/HomeActivity.kt" />
-      <jump line="24" column="0" filename="$USER_HOME$/Documents/Work/AndroidApp/AndroidRewrite/app/src/main/java/edu/stetson/stetsonauth/utils/networking/HttpRequests.kt" />
-      <jump line="53" column="16" filename="$USER_HOME$/Documents/Work/AndroidApp/AndroidRewrite/app/src/main/java/edu/stetson/stetsonauth/utils/networking/HttpRequests.kt" />
-      <jump line="16" column="0" filename="$USER_HOME$/Documents/Work/AndroidApp/StetsonAuth/app/src/main/java/edu/stetson/stetsonauth/networking/AccountService.kt" />
-      <jump line="40" column="27" filename="$USER_HOME$/Documents/Work/AndroidApp/StetsonAuth/app/src/main/java/edu/stetson/stetsonauth/networking/AccountService.kt" />
-      <jump line="7" column="0" filename="$USER_HOME$/Documents/Work/AndroidApp/StetsonAuth/app/src/main/java/edu/stetson/stetsonauth/networking/AccountService.kt" />
-      <jump line="29" column="33" filename="$USER_HOME$/Documents/Work/AndroidApp/StetsonAuth/app/src/main/java/edu/stetson/stetsonauth/fragments/account_list/AccountListAdapter.kt" />
-      <jump line="24" column="16" filename="$USER_HOME$/Documents/Work/AndroidApp/StetsonAuth/app/src/main/res/layout/list_item_account.xml" />
-      <jump line="21" column="0" filename="$USER_HOME$/Documents/Work/AndroidApp/StetsonAuth/app/src/main/res/layout/list_item_account.xml" />
-      <jump line="52" column="44" filename="$USER_HOME$/Documents/Work/AndroidApp/StetsonAuth/app/src/main/java/edu/stetson/stetsonauth/fragments/account_list/AccountListViewModel.kt" />
-      <jump line="76" column="0" filename="$USER_HOME$/Documents/Work/AndroidApp/StetsonAuth/app/src/main/java/edu/stetson/stetsonauth/fragments/account_list/AccountListViewModel.kt" />
-      <jump line="32" column="42" filename="$USER_HOME$/Documents/Work/AndroidApp/StetsonAuth/app/src/main/java/edu/stetson/stetsonauth/fragments/account_list/AccountListAdapter.kt" />
-      <jump line="37" column="39" filename="$USER_HOME$/Documents/Work/AndroidApp/StetsonAuth/app/src/main/java/edu/stetson/stetsonauth/fragments/account_list/AccountListViewModel.kt" />
-      <jump line="85" column="26" filename="$USER_HOME$/Documents/Work/AndroidApp/StetsonAuth/app/src/main/java/edu/stetson/stetsonauth/fragments/account_list/AccountListViewModel.kt" />
-      <jump line="58" column="22" filename="$USER_HOME$/Documents/Work/AndroidApp/StetsonAuth/app/src/main/java/edu/stetson/stetsonauth/fragments/account_list/FragmentAccountList.kt" />
-      <jump line="5" column="9" filename="$USER_HOME$/Documents/Work/AndroidApp/StetsonAuth/app/src/main/AndroidManifest.xml" />
-      <jump line="67" column="0" filename="$USER_HOME$/Documents/Work/AndroidApp/AndroidRewrite/app/src/main/java/edu/stetson/stetsonauth/utils/firebase/StetsonFirebaseMessagingService.kt" />
-      <jump line="31" column="28" filename="$USER_HOME$/Documents/Work/AndroidApp/StetsonAuth/app/src/main/java/edu/stetson/stetsonauth/fragments/account_push/FragmentAccountPush.kt" />
-      <jump line="65" column="46" filename="$USER_HOME$/Documents/Work/AndroidApp/StetsonAuth/app/src/main/java/edu/stetson/stetsonauth/fragments/account_list/FragmentAccountList.kt" />
-      <jump line="99" column="23" filename="$USER_HOME$/Documents/Work/AndroidApp/StetsonAuth/app/src/main/java/edu/stetson/stetsonauth/fragments/account_list/AccountListViewModel.kt" />
-      <jump line="93" column="44" filename="$USER_HOME$/Documents/Work/AndroidApp/StetsonAuth/app/src/main/java/edu/stetson/stetsonauth/fragments/account_list/FragmentAccountList.kt" />
-      <jump line="38" column="44" filename="$USER_HOME$/Documents/Work/AndroidApp/StetsonAuth/app/src/main/java/edu/stetson/stetsonauth/fragments/account_list/FragmentAccountList.kt" />
-      <jump line="43" column="0" filename="$USER_HOME$/Documents/Work/AndroidApp/StetsonAuth/app/src/main/java/edu/stetson/stetsonauth/fragments/account_list/FragmentAccountList.kt" />
-      <jump line="33" column="16" filename="$USER_HOME$/Documents/Work/AndroidApp/StetsonAuth/app/src/main/java/edu/stetson/stetsonauth/fragments/account_push/FragmentAccountPush.kt" />
-      <jump line="80" column="0" filename="$USER_HOME$/Documents/Work/AndroidApp/StetsonAuth/app/src/main/java/edu/stetson/stetsonauth/fragments/account_list/FragmentAccountList.kt" />
-      <jump line="70" column="0" filename="$USER_HOME$/Documents/Work/AndroidApp/StetsonAuth/app/src/main/res/layout/fragment_account_push.xml" />
-      <jump line="38" column="16" filename="$USER_HOME$/Documents/Work/AndroidApp/StetsonAuth/app/src/main/res/layout/fragment_account_push.xml" />
-      <jump line="49" column="0" filename="$USER_HOME$/Documents/Work/AndroidApp/StetsonAuth/app/src/main/java/edu/stetson/stetsonauth/networking/AccountService.kt" />
-      <jump line="55" column="0" filename="$USER_HOME$/Documents/Work/AndroidApp/StetsonAuth/app/src/main/java/edu/stetson/stetsonauth/networking/AccountService.kt" />
-      <jump line="38" column="27" filename="$USER_HOME$/Documents/Work/AndroidApp/StetsonAuth/app/src/main/java/edu/stetson/stetsonauth/components/CustomTimer.kt" />
-      <jump line="96" column="4" filename="$USER_HOME$/Documents/Work/AndroidApp/StetsonAuth/app/src/main/java/edu/stetson/stetsonauth/firebase/StetsonFirebaseMessagingService.kt" />
-      <jump line="51" column="12" filename="$USER_HOME$/Documents/Work/AndroidApp/StetsonAuth/app/src/main/java/edu/stetson/stetsonauth/biometric/StetsonBiometric.kt" />
-      <jump line="58" column="10" filename="$USER_HOME$/Documents/Work/AndroidApp/StetsonAuth/app/src/main/java/edu/stetson/stetsonauth/firebase/StetsonFirebaseMessagingService.kt" />
-      <jump line="33" column="40" filename="$USER_HOME$/Documents/Work/AndroidApp/StetsonAuth/app/src/main/java/edu/stetson/stetsonauth/biometric/StetsonBiometric.kt" />
-      <jump line="76" column="15" filename="$USER_HOME$/Documents/Work/AndroidApp/StetsonAuth/app/src/main/java/edu/stetson/stetsonauth/biometric/StetsonBiometric.kt" />
-      <jump line="0" column="0" filename="$USER_HOME$/Documents/Work/AndroidApp/StetsonAuth/app/src/main/java/edu/stetson/stetsonauth/biometric/StetsonBiometric.kt" />
-      <jump line="92" column="0" filename="$USER_HOME$/Documents/Work/AndroidApp/StetsonAuth/app/src/main/java/edu/stetson/stetsonauth/fragments/account_list/FragmentAccountList.kt" />
-      <jump line="16" column="51" filename="$USER_HOME$/Documents/Work/AndroidApp/StetsonAuth/app/src/main/java/edu/stetson/stetsonauth/biometric/StetsonBiometric.kt" />
-      <jump line="12" column="47" filename="$USER_HOME$/Documents/Work/AndroidApp/AndroidRewrite/app/src/main/res/layout/account_input_form.xml" />
-      <jump line="7" column="8" filename="$USER_HOME$/Documents/Work/AndroidApp/StetsonAuth/app/src/main/res/layout/account_input_form.xml" />
-      <jump line="57" column="34" filename="$USER_HOME$/Documents/Work/AndroidApp/StetsonAuth/app/src/main/java/edu/stetson/stetsonauth/fragments/account_list/AccountListViewModel.kt" />
-      <jump line="74" column="12" filename="$USER_HOME$/Documents/Work/AndroidApp/StetsonAuth/app/src/main/java/edu/stetson/stetsonauth/fragments/account_list/AccountListViewModel.kt" />
-      <jump line="75" column="12" filename="$USER_HOME$/Documents/Work/AndroidApp/StetsonAuth/app/src/main/java/edu/stetson/stetsonauth/fragments/account_list/AccountListViewModel.kt" />
-      <jump line="95" column="12" filename="$USER_HOME$/Documents/Work/AndroidApp/StetsonAuth/app/src/main/java/edu/stetson/stetsonauth/fragments/account_list/AccountListViewModel.kt" />
-      <jump line="144" column="12" filename="$USER_HOME$/Documents/Work/AndroidApp/StetsonAuth/app/src/main/java/edu/stetson/stetsonauth/fragments/account_list/AccountListViewModel.kt" />
-      <jump line="81" column="8" filename="$USER_HOME$/Documents/Work/AndroidApp/StetsonAuth/app/src/main/java/edu/stetson/stetsonauth/fragments/account_list/AccountListViewModel.kt" />
-      <jump line="100" column="12" filename="$USER_HOME$/Documents/Work/AndroidApp/StetsonAuth/app/src/main/java/edu/stetson/stetsonauth/fragments/account_list/AccountListViewModel.kt" />
-      <jump line="149" column="12" filename="$USER_HOME$/Documents/Work/AndroidApp/StetsonAuth/app/src/main/java/edu/stetson/stetsonauth/fragments/account_list/AccountListViewModel.kt" />
-      <jump line="44" column="6" filename="$USER_HOME$/Documents/Work/AndroidApp/StetsonAuth/app/src/main/java/edu/stetson/stetsonauth/StetsonApplication.kt" />
-      <jump line="104" column="0" filename="$USER_HOME$/Documents/Work/AndroidApp/StetsonAuth/app/src/main/java/edu/stetson/stetsonauth/fragments/account_list/AccountListViewModel.kt" />
-      <jump line="66" column="21" filename="$USER_HOME$/Documents/Work/AndroidApp/StetsonAuth/app/src/main/java/edu/stetson/stetsonauth/networking/AccountService.kt" />
-      <jump line="60" column="45" filename="$USER_HOME$/Documents/Work/AndroidApp/StetsonAuth/app/src/main/java/edu/stetson/stetsonauth/fragments/account_list/AccountListViewModel.kt" />
-      <jump line="79" column="0" filename="$USER_HOME$/Documents/Work/AndroidApp/StetsonAuth/app/build.gradle" />
-      <jump line="56" column="4" filename="$USER_HOME$/Documents/Work/AndroidApp/StetsonAuth/app/build.gradle" />
-      <jump line="3" column="22" filename="$USER_HOME$/Documents/Work/AndroidApp/StetsonAuth/app/build.gradle" />
-      <jump line="15" column="21" filename="$USER_HOME$/Documents/Work/AndroidApp/StetsonAuth/app/src/main/java/edu/stetson/stetsonauth/database/Account.kt" />
-      <jump line="11" column="11" filename="$USER_HOME$/Documents/Work/AndroidApp/StetsonAuth/build.gradle" />
-      <jump line="95" column="7" filename="$USER_HOME$/Documents/Work/AndroidApp/StetsonAuth/app/src/main/java/edu/stetson/stetsonauth/fragments/account_list/FragmentAccountList.kt" />
-      <jump line="0" column="10" filename="$USER_HOME$/IdeaProjects/javalin/src/main/kotlin/HelloWorld.kt" />
-      <jump line="22" column="8" filename="$USER_HOME$/IdeaProjects/hansjavalin/src/main/java/Collaboration.kt" />
-      <jump line="7" column="0" filename="$USER_HOME$/IdeaProjects/kotlin-boot/build.gradle" />
-      <jump line="22" column="0" filename="$USER_HOME$/IdeaProjects/kotlin-boot/build.gradle" />
-      <jump line="15" column="8" filename="$USER_HOME$/IdeaProjects/kotlin-boot/build.gradle" />
-      <jump line="13" column="18" filename="$USER_HOME$/IdeaProjects/kotlin-boot/src/main/kotlin/boot/GreetingController.kt" />
-    </jumps>
-    <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">YnVpbGRzY3JpcHQgewogICAgZXh0LmtvdGxpbl92ZXJzaW9uID0gJzEuMy4zMScKICAgIGV4dC5zcHJpbmdfYm9vdF92ZXJzaW9uID0gJzIuMS4wLlJFTEVBU0UnCiAgICByZXBvc2l0b3JpZXMgewogICAgICAgIGpjZW50ZXIoKQogICAgICAgIG1hdmVuQ2VudHJhbCgpCiAgICB9CgogICAgZGVwZW5kZW5jaWVzIHsKICAgICAgICBjbGFzc3BhdGggIm9yZy5qZXRicmFpbnMua290bGluOmtvdGxpbi1ncmFkbGUtcGx1Z2luOiRrb3RsaW5fdmVyc2lvbiIgLy8gUmVxdWlyZWQgZm9yIEtvdGxpbiBpbnRlZ3JhdGlvbgogICAgICAgIGNsYXNzcGF0aCAib3JnLmpldGJyYWlucy5rb3RsaW46a290bGluLWFsbG9wZW46JGtvdGxpbl92ZXJzaW9uIiAvLyBTZWUgaHR0cHM6Ly9rb3RsaW5sYW5nLm9yZy9kb2NzL3JlZmVyZW5jZS9jb21waWxlci1wbHVnaW5zLmh0bWwjc3ByaW5nLXN1cHBvcnQKICAgICAgICBjbGFzc3BhdGggIm9yZy5zcHJpbmdmcmFtZXdvcmsuYm9vdDpzcHJpbmctYm9vdC1ncmFkbGUtcGx1Z2luOiRzcHJpbmdfYm9vdF92ZXJzaW9uIgogICAgfQp9CgpwbHVnaW5zIHsKICAgIGlkICdvcmcuamV0YnJhaW5zLmtvdGxpbi5qdm0nIHZlcnNpb24gJzEuMy4yMScKfQphcHBseSBwbHVnaW46ICdrb3RsaW4nIC8vIFJlcXVpcmVkIGZvciBLb3RsaW4gaW50ZWdyYXRpb24KYXBwbHkgcGx1Z2luOiAia290bGluLXNwcmluZyIgLy8gaHR0cHM6Ly9rb3RsaW5sYW5nLm9yZy9kb2NzL3JlZmVyZW5jZS9jb21waWxlci1wbHVnaW5zLmh0bWwjc3ByaW5nLXN1cHBvcnQKYXBwbHkgcGx1Z2luOiAnb3JnLnNwcmluZ2ZyYW1ld29yay5ib290JwphcHBseSBwbHVnaW46ICdpby5zcHJpbmcuZGVwZW5kZW5jeS1tYW5hZ2VtZW50JwoKZ3JvdXAgJ2NvbS5oYW5zcGlzdG9yJwp2ZXJzaW9uICcxLjAtU05BUFNIT1QnCgoKamFyIHsKICAgIGJhc2VOYW1lID0gJ2dzLXJlc3Qtc2VydmljZScKICAgIHZlcnNpb24gPSAnMC4xLjAnCn0KCnJlcG9zaXRvcmllcyB7CiAgICBqY2VudGVyKCkKICAgIG1hdmVuQ2VudHJhbCgpCn0KCmRlcGVuZGVuY2llcyB7CiAgICBjb21waWxlICJvcmcuamV0YnJhaW5zLmtvdGxpbjprb3RsaW4tc3RkbGliOiRrb3RsaW5fdmVyc2lvbiIgLy8gUmVxdWlyZWQgZm9yIEtvdGxpbiBpbnRlZ3JhdGlvbgogICAgY29tcGlsZSAib3JnLnNwcmluZ2ZyYW1ld29yay5ib290OnNwcmluZy1ib290LXN0YXJ0ZXItd2ViIgogICAgdGVzdENvbXBpbGUoJ29yZy5zcHJpbmdmcmFtZXdvcmsuYm9vdDpzcHJpbmctYm9vdC1zdGFydGVyLXRlc3QnKQp9Cg==</text>
-      </register>
-      <register name="f" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgYXBwZW5kKF90aW1lKSkK</text>
-      </register>
-      <register name="-" type="4">
-        <text>m</text>
-      </register>
-      <register name="/" type="4">
-        <text>kapt</text>
-      </register>
-      <register name="0" type="2">
-        <text encoding="base64">ICAgIG1hdmVuQ2VudHJhbCgpCg==</text>
-      </register>
-      <register name="1" type="2">
-        <text encoding="base64">YnVpbGRzY3JpcHQgewogICAgZXh0LmtvdGxpbl92ZXJzaW9uID0gJzEuMy4zMScKICAgIGV4dC5zcHJpbmdfYm9vdF92ZXJzaW9uID0gJzIuMS4wLlJFTEVBU0UnCiAgICByZXBvc2l0b3JpZXMgewogICAgICAgIGpjZW50ZXIoKQogICAgICAgIG1hdmVuQ2VudHJhbCgpCiAgICB9CgogICAgZGVwZW5kZW5jaWVzIHsKICAgICAgICBjbGFzc3BhdGggIm9yZy5qZXRicmFpbnMua290bGluOmtvdGxpbi1ncmFkbGUtcGx1Z2luOiRrb3RsaW5fdmVyc2lvbiIgLy8gUmVxdWlyZWQgZm9yIEtvdGxpbiBpbnRlZ3JhdGlvbgogICAgICAgIGNsYXNzcGF0aCAib3JnLmpldGJyYWlucy5rb3RsaW46a290bGluLWFsbG9wZW46JGtvdGxpbl92ZXJzaW9uIiAvLyBTZWUgaHR0cHM6Ly9rb3RsaW5sYW5nLm9yZy9kb2NzL3JlZmVyZW5jZS9jb21waWxlci1wbHVnaW5zLmh0bWwjc3ByaW5nLXN1cHBvcnQKICAgICAgICBjbGFzc3BhdGggIm9yZy5zcHJpbmdmcmFtZXdvcmsuYm9vdDpzcHJpbmctYm9vdC1ncmFkbGUtcGx1Z2luOiRzcHJpbmdfYm9vdF92ZXJzaW9uIgogICAgfQp9CgpwbHVnaW5zIHsKICAgIGlkICdvcmcuamV0YnJhaW5zLmtvdGxpbi5qdm0nIHZlcnNpb24gJzEuMy4yMScKfQphcHBseSBwbHVnaW46ICdrb3RsaW4nIC8vIFJlcXVpcmVkIGZvciBLb3RsaW4gaW50ZWdyYXRpb24KYXBwbHkgcGx1Z2luOiAia290bGluLXNwcmluZyIgLy8gaHR0cHM6Ly9rb3RsaW5sYW5nLm9yZy9kb2NzL3JlZmVyZW5jZS9jb21waWxlci1wbHVnaW5zLmh0bWwjc3ByaW5nLXN1cHBvcnQKYXBwbHkgcGx1Z2luOiAnb3JnLnNwcmluZ2ZyYW1ld29yay5ib290JwphcHBseSBwbHVnaW46ICdpby5zcHJpbmcuZGVwZW5kZW5jeS1tYW5hZ2VtZW50JwoKZ3JvdXAgJ2NvbS5oYW5zcGlzdG9yJwp2ZXJzaW9uICcxLjAtU05BUFNIT1QnCgoKamFyIHsKICAgIGJhc2VOYW1lID0gJ2dzLXJlc3Qtc2VydmljZScKICAgIHZlcnNpb24gPSAnMC4xLjAnCn0KCnJlcG9zaXRvcmllcyB7CiAgICBqY2VudGVyKCkKICAgIG1hdmVuQ2VudHJhbCgpCn0KCmRlcGVuZGVuY2llcyB7CiAgICBjb21waWxlICJvcmcuamV0YnJhaW5zLmtvdGxpbjprb3RsaW4tc3RkbGliOiRrb3RsaW5fdmVyc2lvbiIgLy8gUmVxdWlyZWQgZm9yIEtvdGxpbiBpbnRlZ3JhdGlvbgogICAgY29tcGlsZSAib3JnLnNwcmluZ2ZyYW1ld29yay5ib290OnNwcmluZy1ib290LXN0YXJ0ZXItd2ViIgogICAgdGVzdENvbXBpbGUoJ29yZy5zcHJpbmdmcmFtZXdvcmsuYm9vdDpzcHJpbmctYm9vdC1zdGFydGVyLXRlc3QnKQp9Cg==</text>
-      </register>
-      <register name="2" type="2">
-        <text encoding="base64">ICAgIGlkICdrb3RsaW4nCiAgICBpZCAna290bGluLXNwcmluZycKICAgIGlkICdvcmcuc3ByaW5nZnJhbWV3b3JrLmJvb3QnCiAgICBpZCAnaW8uc3ByaW5nLmRlcGVuZGVuY3ktbWFuYWdlbWVudCcK</text>
-      </register>
-      <register name="3" type="2">
-        <text encoding="base64">Z3JvdXAgJ2NvbS5oYW5zcGlzdG9yJwp2ZXJzaW9uICcxLjAtU05BUFNIT1QnCgo=</text>
-      </register>
-      <register name="4" type="2">
-        <text encoding="base64">ICAgIGltcGxlbWVudGF0aW9uICJvcmcuamV0YnJhaW5zLmtvdGxpbjprb3RsaW4tc3RkbGliLWpkazgiCg==</text>
-      </register>
-      <register name="5" type="2">
-        <text encoding="base64">CmNvbXBpbGVLb3RsaW4gewogICAga290bGluT3B0aW9ucy5qdm1UYXJnZXQgPSAiMS44Igp9CmNvbXBpbGVUZXN0S290bGluIHsKICAgIGtvdGxpbk9wdGlvbnMuanZtVGFyZ2V0ID0gIjEuOCIKfQo=</text>
-      </register>
-      <register name="6" type="2">
-        <text encoding="base64">ICAgIG1hdmVuQ2VudHJhbCgpCg==</text>
-      </register>
-      <register name="7" type="2">
-        <text encoding="base64">Cg==</text>
-      </register>
-      <register name="8" type="2">
-        <text encoding="base64">Cgo=</text>
-      </register>
-      <register name="9" type="2">
-        <text encoding="base64">Z3JvdXAgJ2NvbS5oYW5zcGlzdG9yJwp2ZXJzaW9uICcxLjAtU05BUFNIT1QnCg==</text>
-      </register>
-      <register name=":" type="4">
-        <text>w</text>
-      </register>
-    </registers>
-    <search>
-      <last-search>kapt</last-search>
-      <last-offset />
-      <last-pattern>kapt</last-pattern>
-      <last-replace>activity</last-replace>
-      <last-substitute>Delete</last-substitute>
-      <last-dir>1</last-dir>
-      <show-last>false</show-last>
-    </search>
-    <history>
-      <history-search>
-        <entry>startButton</entry>
-        <entry>TextViewHolder</entry>
-        <entry>Fragment</entry>
-        <entry>black</entry>
-        <entry>vision</entry>
-        <entry>companion</entry>
-        <entry>nav</entry>
-        <entry>parse</entry>
-        <entry>register</entry>
-        <entry>LongClick</entry>
-        <entry>de</entry>
-        <entry>deregi</entry>
-        <entry>onLongClick</entry>
-        <entry>init</entry>
-        <entry>Theme</entry>
-        <entry>Firebase</entry>
-        <entry>Button</entry>
-        <entry>Nonce</entry>
-        <entry>insert</entry>
-        <entry>kapt</entry>
-      </history-search>
-      <history-cmd>
-        <entry>s</entry>
-        <entry>%s/MainActivity.this/activity/g</entry>
-        <entry>w</entry>
-      </history-cmd>
-      <history-expr />
-      <history-input />
-    </history>
+    <state version="5" enabled="true" />
     <shortcut-conflicts>
-      <shortcut-conflict owner="ide">
+      <shortcut-conflict owner="vim">
         <text>ctrl pressed S</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="vim">
+        <text>ctrl pressed Y</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="vim">
+        <text>ctrl pressed R</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="vim">
+        <text>ctrl pressed X</text>
       </shortcut-conflict>
       <shortcut-conflict owner="vim">
         <text>ctrl pressed D</text>
@@ -402,31 +21,19 @@
         <text>ctrl pressed U</text>
       </shortcut-conflict>
       <shortcut-conflict owner="vim">
-        <text>ctrl pressed R</text>
+        <text>ctrl pressed W</text>
       </shortcut-conflict>
       <shortcut-conflict owner="ide">
         <text>ctrl pressed V</text>
       </shortcut-conflict>
-      <shortcut-conflict owner="ide">
+      <shortcut-conflict owner="vim">
         <text>ctrl pressed C</text>
-      </shortcut-conflict>
-      <shortcut-conflict owner="vim">
-        <text>ctrl pressed Y</text>
-      </shortcut-conflict>
-      <shortcut-conflict owner="vim">
-        <text>ctrl pressed B</text>
-      </shortcut-conflict>
-      <shortcut-conflict owner="ide">
-        <text>ctrl pressed W</text>
-      </shortcut-conflict>
-      <shortcut-conflict owner="vim">
-        <text>ctrl pressed X</text>
       </shortcut-conflict>
       <shortcut-conflict owner="vim">
         <text>ctrl pressed A</text>
       </shortcut-conflict>
-      <shortcut-conflict owner="ide">
-        <text>ctrl pressed 2</text>
+      <shortcut-conflict owner="vim">
+        <text>ctrl pressed N</text>
       </shortcut-conflict>
       <shortcut-conflict owner="vim">
         <text>ctrl pressed T</text>
@@ -434,24 +41,12 @@
       <shortcut-conflict owner="vim">
         <text>ctrl pressed P</text>
       </shortcut-conflict>
-      <shortcut-conflict owner="vim">
-        <text>ctrl pressed O</text>
-      </shortcut-conflict>
-      <shortcut-conflict owner="vim">
-        <text>ctrl pressed I</text>
-      </shortcut-conflict>
-      <shortcut-conflict owner="vim">
-        <text>ctrl pressed OPEN_BRACKET</text>
-      </shortcut-conflict>
-      <shortcut-conflict owner="ide">
-        <text>ctrl pressed N</text>
-      </shortcut-conflict>
-      <shortcut-conflict owner="vim">
-        <text>ctrl pressed F</text>
-      </shortcut-conflict>
-      <shortcut-conflict owner="vim">
-        <text>ctrl pressed E</text>
-      </shortcut-conflict>
     </shortcut-conflicts>
+    <editor />
+    <notifications>
+      <idea-join enabled="false" />
+      <idea-put enabled="false" />
+      <template-selectmode enabled="false" />
+    </notifications>
   </component>
 </application>

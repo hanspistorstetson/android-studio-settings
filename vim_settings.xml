@@ -10,12 +10,21 @@
         <mark key="^" line="9" column="12" />
         <mark key="." line="9" column="12" />
       </file>
+      <file name="/Dummy.txt" timestamp="1568992708400">
+        <mark key="[" line="0" column="0" />
+      </file>
       <file name="$USER_HOME$/Documents/Growth/Rust/guessing_game/src/main.rs" timestamp="1568836864288">
         <mark key="'" line="19" column="37" />
         <mark key="[" line="21" column="25" />
         <mark key="]" line="21" column="30" />
         <mark key="." line="21" column="30" />
         <mark key="^" line="21" column="30" />
+      </file>
+      <file name="$USER_HOME$/Documents/Growth/Rust/adder/src/lib.rs" timestamp="1568992706828">
+        <mark key="[" line="29" column="43" />
+        <mark key="]" line="29" column="43" />
+        <mark key="^" line="29" column="43" />
+        <mark key="." line="29" column="43" />
       </file>
       <file name="/fragment.java" timestamp="1568836186353">
         <mark key="[" line="0" column="0" />
@@ -40,47 +49,52 @@
     </jumps>
     <registers>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICBPcmRlcmluZzo6TGVzcyA9PiBwcmludGxuISgiVG9vIHNtYWxsIiksCg==</text>
+        <text encoding="base64">ICAgICAgICBsZXQgbGFyZ2VyID0gUmVjdGFuZ2xlIHsgd2lkdGg6IDgsIGhlaWdodDogN307CiAgICAgICAgbGV0IHNtYWxsZXIgPSBSZWN0YW5nbGUgeyB3aWR0aDogNSwgaGVpZ2h0OiAxfTsK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICBSZWN0YW5nbGUge3dpZHRoOiBzaXplLCBoZWlnaHQ6IHNpemV9Cg==</text>
+        <text encoding="base64">ICAgIGZuIGl0X3dvcmtzKCkgewogICAgICAgIGFzc2VydF9lcSEoMiArIDIsIDQpOwogICAgfQoKICAgICNbdGVzdF0KICAgIGZuIHBhbmljKCkgewogICAgICAgIHBhbmljISgiUGFuaWMiKQogICAgfQo=</text>
       </register>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICBSZWN0YW5nbGUge3dpZHRoOiBzaXplLCBoZWlnaHQ6IHNpemV9Cg==</text>
+        <text encoding="base64">ICAgICAgICBsZXQgbGFyZ2VyID0gUmVjdGFuZ2xlIHsgd2lkdGg6IDgsIGhlaWdodDogN307CiAgICAgICAgbGV0IHNtYWxsZXIgPSBSZWN0YW5nbGUgeyB3aWR0aDogNSwgaGVpZ2h0OiAxfTsK</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICBSZWN0YW5nbGUge3dpZHRoOiBzaXplLCBoZWlnaHQ6IHNpemV9Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">CmZuIGFyZWEocmVjdGFuZ2xlOiAmUmVjdGFuZ2xlKSAtPiB1MzIgewogICAgcmVjdGFuZ2xlLndpZHRoICogcmVjdGFuZ2xlLmhlaWdodAp9Cgo=</text>
-      </register>
-      <register name="4" type="2">
-        <text encoding="base64">ICAgIGxldCB3aWR0aDEgPSAzMDsKICAgIGxldCBoZWlnaHQxID0gNTA7Cg==</text>
-      </register>
-      <register name="5" type="2">
-        <text encoding="base64">ICAgIHByaW50bG4hKCJIZWxsbywgd29ybGQhIik7Cg==</text>
-      </register>
-      <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgLmV4cGVjdCgiUGxlYXNlIHR5cGUgYSBudW1iZXIhIik7Cg==</text>
-      </register>
-      <register name="7" type="2">
         <text encoding="base64">Cg==</text>
       </register>
+      <register name="4" type="2">
+        <text encoding="base64">CmZuIGFyZWEocmVjdGFuZ2xlOiAmUmVjdGFuZ2xlKSAtPiB1MzIgewogICAgcmVjdGFuZ2xlLndpZHRoICogcmVjdGFuZ2xlLmhlaWdodAp9Cgo=</text>
+      </register>
+      <register name="5" type="2">
+        <text encoding="base64">ICAgIGxldCB3aWR0aDEgPSAzMDsKICAgIGxldCBoZWlnaHQxID0gNTA7Cg==</text>
+      </register>
+      <register name="6" type="2">
+        <text encoding="base64">ICAgIHByaW50bG4hKCJIZWxsbywgd29ybGQhIik7Cg==</text>
+      </register>
+      <register name="7" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgLmV4cGVjdCgiUGxlYXNlIHR5cGUgYSBudW1iZXIhIik7Cg==</text>
+      </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgIAo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="9" type="2">
         <text encoding="base64">ICAgIAo=</text>
       </register>
       <register name="-" type="4">
-        <text>)</text>
+        <text>5</text>
       </register>
     </registers>
     <search>
       <last-dir>0</last-dir>
       <show-last>false</show-last>
     </search>
-    <history />
+    <history>
+      <history-search />
+      <history-cmd />
+      <history-expr />
+      <history-input />
+    </history>
     <shortcut-conflicts>
       <shortcut-conflict owner="vim">
         <text>ctrl pressed S</text>

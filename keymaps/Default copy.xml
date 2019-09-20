@@ -1,4 +1,7 @@
 <keymap version="1" name="Default copy" parent="$default">
+  <action id="ActivateCargoToolWindow">
+    <keyboard-shortcut first-keystroke="ctrl alt c" />
+  </action>
   <action id="ActivateFavoritesToolWindow" />
   <action id="ActivateLogcatToolWindow">
     <keyboard-shortcut first-keystroke="alt 6" />
@@ -41,6 +44,7 @@
   <action id="GotoChangedFile" />
   <action id="GotoClass" />
   <action id="GotoNextError" />
+  <action id="IntroduceConstant" />
   <action id="Kotlin.NewFile">
     <keyboard-shortcut first-keystroke="ctrl n" />
   </action>
@@ -48,11 +52,17 @@
     <keyboard-shortcut first-keystroke="shift f10" />
     <keyboard-shortcut first-keystroke="alt r" />
   </action>
+  <action id="Rust.CargoCommand">
+    <keyboard-shortcut first-keystroke="ctrl alt x" />
+  </action>
   <action id="ShelvedChanges.Rename">
     <keyboard-shortcut first-keystroke="shift f6" />
   </action>
   <action id="XDebugger.EditWatch" />
   <action id="XDebugger.SetValue" />
+  <action id="XPathView.Actions.Evaluate" />
+  <action id="XPathView.Actions.FindByExpression" />
+  <action id="XPathView.Actions.ShowPath" />
   <action id="android.fd.HotswapAction">
     <keyboard-shortcut first-keystroke="f1" />
   </action>

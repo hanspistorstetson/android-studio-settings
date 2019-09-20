@@ -20,6 +20,13 @@
       <file name="/fragment.java" timestamp="1568836186353">
         <mark key="[" line="0" column="0" />
       </file>
+      <file name="$USER_HOME$/Documents/Growth/Rust/rectangles/src/main.rs" timestamp="1568991957637">
+        <mark key="'" line="27" column="37" />
+        <mark key="[" line="15" column="8" />
+        <mark key="]" line="15" column="7" />
+        <mark key="^" line="15" column="7" />
+        <mark key="." line="15" column="7" />
+      </file>
     </filemarks>
     <jumps>
       <jump line="3" column="0" filename="$USER_HOME$/Documents/Growth/Rust/guessing_game/src/main.rs" />
@@ -27,31 +34,46 @@
       <jump line="0" column="0" filename="$USER_HOME$/Documents/Growth/Rust/guessing_game/Cargo.toml" />
       <jump line="11" column="28" filename="$USER_HOME$/Documents/Growth/Rust/guessing_game/src/main.rs" />
       <jump line="17" column="37" filename="$USER_HOME$/Documents/Growth/Rust/guessing_game/src/main.rs" />
+      <jump line="3" column="0" filename="$USER_HOME$/Documents/Growth/Rust/rectangles/src/main.rs" />
+      <jump line="15" column="25" filename="$USER_HOME$/Documents/Growth/Rust/rectangles/src/main.rs" />
+      <jump line="13" column="37" filename="$USER_HOME$/Documents/Growth/Rust/rectangles/src/main.rs" />
     </jumps>
     <registers>
       <register name="0" type="2">
         <text encoding="base64">ICAgICAgICBPcmRlcmluZzo6TGVzcyA9PiBwcmludGxuISgiVG9vIHNtYWxsIiksCg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgLmV4cGVjdCgiUGxlYXNlIHR5cGUgYSBudW1iZXIhIik7Cg==</text>
+        <text encoding="base64">ICAgICAgICBSZWN0YW5nbGUge3dpZHRoOiBzaXplLCBoZWlnaHQ6IHNpemV9Cg==</text>
       </register>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgLmV4cGVjdCgiUGxlYXNlIHR5cGUgYSBudW1iZXIhIik7Cg==</text>
+        <text encoding="base64">ICAgICAgICBSZWN0YW5nbGUge3dpZHRoOiBzaXplLCBoZWlnaHQ6IHNpemV9Cg==</text>
       </register>
       <register name="2" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgIAo=</text>
+        <text encoding="base64">CmZuIGFyZWEocmVjdGFuZ2xlOiAmUmVjdGFuZ2xlKSAtPiB1MzIgewogICAgcmVjdGFuZ2xlLndpZHRoICogcmVjdGFuZ2xlLmhlaWdodAp9Cgo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgIAo=</text>
+        <text encoding="base64">ICAgIGxldCB3aWR0aDEgPSAzMDsKICAgIGxldCBoZWlnaHQxID0gNTA7Cg==</text>
       </register>
       <register name="5" type="2">
         <text encoding="base64">ICAgIHByaW50bG4hKCJIZWxsbywgd29ybGQhIik7Cg==</text>
       </register>
+      <register name="6" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgLmV4cGVjdCgiUGxlYXNlIHR5cGUgYSBudW1iZXIhIik7Cg==</text>
+      </register>
+      <register name="7" type="2">
+        <text encoding="base64">Cg==</text>
+      </register>
+      <register name="8" type="2">
+        <text encoding="base64">ICAgIAo=</text>
+      </register>
+      <register name="9" type="2">
+        <text encoding="base64">ICAgIAo=</text>
+      </register>
       <register name="-" type="4">
-        <text>}</text>
+        <text>)</text>
       </register>
     </registers>
     <search>

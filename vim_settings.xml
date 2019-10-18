@@ -1,6 +1,95 @@
 <application>
   <component name="VimSettings">
-    <state version="5" enabled="true" />
+    <state version="4" enabled="true" />
+    <globalmarks />
+    <filemarks>
+      <file name="/Dummy.txt" timestamp="1571430349927">
+        <mark key="[" line="0" column="0" />
+      </file>
+      <file name="$USER_HOME$/.m2/settings-security.xml" timestamp="1571431486528">
+        <mark key="[" line="1" column="12" />
+        <mark key="]" line="1" column="57" />
+        <mark key="^" line="1" column="57" />
+        <mark key="." line="1" column="57" />
+      </file>
+      <file name="$USER_HOME$/Documents/Work/banner-email-queue/mvnw.cmd" timestamp="1571430735703">
+        <mark key="'" line="124" column="31" />
+      </file>
+      <file name="$USER_HOME$/Documents/Work/banner-email-queue/pom.xml" timestamp="1571431657526">
+        <mark key="'" line="76" column="24" />
+        <mark key="[" line="87" column="0" />
+        <mark key="]" line="87" column="0" />
+        <mark key="^" line="86" column="0" />
+        <mark key="." line="87" column="0" />
+      </file>
+      <file name="$USER_HOME$/Utilities/apache-maven-3.6.2/conf/settings.xml" timestamp="1571431606283">
+        <mark key="[" line="113" column="22" />
+        <mark key="]" line="113" column="40" />
+        <mark key="^" line="113" column="40" />
+        <mark key="." line="113" column="40" />
+      </file>
+      <file name="/fragment.java" timestamp="1571430349919">
+        <mark key="[" line="0" column="0" />
+      </file>
+      <file name="$USER_HOME$/Documents/Work/banner-email-queue/src/main/resources/templates/approval_queue.ftlh" timestamp="1571429901597">
+        <mark key="[" line="6" column="0" />
+        <mark key="]" line="6" column="0" />
+        <mark key="." line="6" column="0" />
+      </file>
+    </filemarks>
+    <jumps>
+      <jump line="119" column="24" filename="$USER_HOME$/Documents/Work/banner-email-queue/pom.xml" />
+      <jump line="69" column="24" filename="$USER_HOME$/Documents/Work/banner-email-queue/pom.xml" />
+      <jump line="64" column="24" filename="$USER_HOME$/Documents/Work/banner-email-queue/pom.xml" />
+      <jump line="51" column="24" filename="$USER_HOME$/Documents/Work/banner-email-queue/pom.xml" />
+      <jump line="41" column="24" filename="$USER_HOME$/Documents/Work/banner-email-queue/pom.xml" />
+      <jump line="36" column="24" filename="$USER_HOME$/Documents/Work/banner-email-queue/pom.xml" />
+      <jump line="31" column="24" filename="$USER_HOME$/Documents/Work/banner-email-queue/pom.xml" />
+      <jump line="6" column="20" filename="$USER_HOME$/Documents/Work/banner-email-queue/pom.xml" />
+      <jump line="42" column="26" filename="$USER_HOME$/Documents/Work/banner-email-queue/mvnw.cmd" />
+      <jump line="134" column="67" filename="$USER_HOME$/Documents/Work/banner-email-queue/mvnw.cmd" />
+      <jump line="133" column="28" filename="$USER_HOME$/Documents/Work/banner-email-queue/mvnw.cmd" />
+      <jump line="124" column="31" filename="$USER_HOME$/Documents/Work/banner-email-queue/mvnw.cmd" />
+      <jump line="27" column="0" filename="$USER_HOME$/Documents/Work/banner-email-queue/pom.xml" />
+      <jump line="128" column="45" filename="$USER_HOME$/Documents/Work/banner-email-queue/pom.xml" />
+      <jump line="83" column="24" filename="$USER_HOME$/Documents/Work/banner-email-queue/pom.xml" />
+      <jump line="76" column="24" filename="$USER_HOME$/Documents/Work/banner-email-queue/pom.xml" />
+    </jumps>
+    <registers>
+      <register name="1" type="2">
+        <text encoding="base64">CQk8ZGVwZW5kZW5jeT4KCQkJPGdyb3VwSWQ+Y29tLm9yYWNsZTwvZ3JvdXBJZD4KCQkJPGFydGlmYWN0SWQ+b2pkYmM3PC9hcnRpZmFjdElkPgoJCQk8dmVyc2lvbj4xMi4xLjAuMjwvdmVyc2lvbj4KCQk8L2RlcGVuZGVuY3k+Cg==</text>
+      </register>
+      <register name="&quot;" type="2">
+        <text encoding="base64">CQk8ZGVwZW5kZW5jeT4KCQkJPGdyb3VwSWQ+Y29tLm9yYWNsZTwvZ3JvdXBJZD4KCQkJPGFydGlmYWN0SWQ+b2pkYmM3PC9hcnRpZmFjdElkPgoJCQk8dmVyc2lvbj4xMi4xLjAuMjwvdmVyc2lvbj4KCQk8L2RlcGVuZGVuY3k+Cg==</text>
+      </register>
+      <register name="2" type="2">
+        <text encoding="base64">Cg==</text>
+      </register>
+      <register name="3" type="2">
+        <text encoding="base64">ICAgCg==</text>
+      </register>
+      <register name="-" type="4">
+        <text>username</text>
+      </register>
+      <register name="/" type="4">
+        <text>ojdbc</text>
+      </register>
+    </registers>
+    <search>
+      <last-search>ojdbc</last-search>
+      <last-offset />
+      <last-pattern>ojdbc</last-pattern>
+      <last-dir>1</last-dir>
+      <show-last>false</show-last>
+    </search>
+    <history>
+      <history-search>
+        <entry>spring-boot</entry>
+        <entry>DownloadFile</entry>
+        <entry>DOWNLOAD_URL</entry>
+        <entry>ojdbc</entry>
+      </history-search>
+    </history>
     <shortcut-conflicts>
       <shortcut-conflict owner="vim">
         <text>ctrl pressed S</text>
@@ -54,11 +143,5 @@
         <text>ctrl pressed L</text>
       </shortcut-conflict>
     </shortcut-conflicts>
-    <editor />
-    <notifications>
-      <idea-join enabled="false" />
-      <idea-put enabled="false" />
-      <template-selectmode enabled="false" />
-    </notifications>
   </component>
 </application>

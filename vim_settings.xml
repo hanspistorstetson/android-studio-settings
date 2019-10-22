@@ -3,7 +3,7 @@
     <state version="4" enabled="true" />
     <globalmarks />
     <filemarks>
-      <file name="/Dummy.txt" timestamp="1571430349927">
+      <file name="/Dummy.txt" timestamp="1571765250751">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/.m2/settings-security.xml" timestamp="1571431486528">
@@ -15,20 +15,27 @@
       <file name="$USER_HOME$/Documents/Work/banner-email-queue/mvnw.cmd" timestamp="1571430735703">
         <mark key="'" line="124" column="31" />
       </file>
-      <file name="$USER_HOME$/Documents/Work/banner-email-queue/pom.xml" timestamp="1571431657526">
-        <mark key="'" line="76" column="24" />
-        <mark key="[" line="87" column="0" />
-        <mark key="]" line="87" column="0" />
-        <mark key="^" line="86" column="0" />
-        <mark key="." line="87" column="0" />
+      <file name="$USER_HOME$/Documents/Work/banner-email-queue/pom.xml" timestamp="1571764574082">
+        <mark key="'" line="91" column="40" />
+        <mark key="[" line="82" column="31" />
+        <mark key="]" line="82" column="35" />
+        <mark key="^" line="82" column="35" />
+        <mark key="." line="82" column="35" />
       </file>
+      <file name="$USER_HOME$/Documents/Work/banner-email-queue/src/main/java/edu/stetson/service/SpringApplicationAdminClient.java" timestamp="1571764973697" />
       <file name="$USER_HOME$/Utilities/apache-maven-3.6.2/conf/settings.xml" timestamp="1571431606283">
         <mark key="[" line="113" column="22" />
         <mark key="]" line="113" column="40" />
         <mark key="^" line="113" column="40" />
         <mark key="." line="113" column="40" />
       </file>
-      <file name="/fragment.java" timestamp="1571430349919">
+      <file name="$USER_HOME$/Documents/Work/banner-email-queue/src/main/resources/application.properties" timestamp="1571765583878">
+        <mark key="[" line="3" column="36" />
+        <mark key="]" line="3" column="36" />
+        <mark key="^" line="3" column="36" />
+        <mark key="." line="3" column="36" />
+      </file>
+      <file name="/fragment.java" timestamp="1571765250743">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/Documents/Work/banner-email-queue/src/main/resources/templates/approval_queue.ftlh" timestamp="1571429901597">
@@ -54,6 +61,7 @@
       <jump line="128" column="45" filename="$USER_HOME$/Documents/Work/banner-email-queue/pom.xml" />
       <jump line="83" column="24" filename="$USER_HOME$/Documents/Work/banner-email-queue/pom.xml" />
       <jump line="76" column="24" filename="$USER_HOME$/Documents/Work/banner-email-queue/pom.xml" />
+      <jump line="91" column="40" filename="$USER_HOME$/Documents/Work/banner-email-queue/pom.xml" />
     </jumps>
     <registers>
       <register name="1" type="2">

@@ -6,6 +6,40 @@
       <file name="/Dummy.txt" timestamp="1571765250751">
         <mark key="[" line="0" column="0" />
       </file>
+      <file name="$USER_HOME$/Documents/Work/banner-email-queue/src/main/java/edu/stetson/application/BannerEmailQueueListener.java" timestamp="1571862186813">
+        <mark key="[" line="42" column="50" />
+        <mark key="]" line="42" column="50" />
+        <mark key="." line="42" column="50" />
+        <mark key="^" line="42" column="50" />
+      </file>
+      <file name="$USER_HOME$/Documents/Work/banner-email-queue/pom.xml" timestamp="1571767001987">
+        <mark key="'" line="82" column="35" />
+        <mark key="[" line="82" column="31" />
+        <mark key="]" line="82" column="35" />
+        <mark key="^" line="82" column="35" />
+        <mark key="." line="82" column="35" />
+      </file>
+      <file name="$USER_HOME$/Utilities/apache-maven-3.6.2/conf/settings.xml" timestamp="1571431606283">
+        <mark key="[" line="113" column="22" />
+        <mark key="]" line="113" column="40" />
+        <mark key="^" line="113" column="40" />
+        <mark key="." line="113" column="40" />
+      </file>
+      <file name="$USER_HOME$/Documents/Work/banner-email-queue/src/main/resources/application.properties" timestamp="1571862543790">
+        <mark key="[" line="16" column="48" />
+        <mark key="]" line="16" column="48" />
+        <mark key="^" line="17" column="54" />
+        <mark key="." line="16" column="48" />
+      </file>
+      <file name="$USER_HOME$/Documents/Work/banner-email-queue/jms_map_message_example.pls" timestamp="1571862065756">
+        <mark key="[" line="19" column="0" />
+        <mark key="]" line="56" column="4" />
+      </file>
+      <file name="$USER_HOME$/Documents/Work/banner-email-queue/src/main/java/edu/stetson/application/BannerEmailQueue.java" timestamp="1571767168679">
+        <mark key="[" line="38" column="0" />
+        <mark key="]" line="38" column="0" />
+        <mark key="." line="38" column="0" />
+      </file>
       <file name="$USER_HOME$/.m2/settings-security.xml" timestamp="1571431486528">
         <mark key="[" line="1" column="12" />
         <mark key="]" line="1" column="57" />
@@ -15,27 +49,8 @@
       <file name="$USER_HOME$/Documents/Work/banner-email-queue/mvnw.cmd" timestamp="1571430735703">
         <mark key="'" line="124" column="31" />
       </file>
-      <file name="$USER_HOME$/Documents/Work/banner-email-queue/src/main/java/edu/stetson/application/BannerEmailQueueListener.java" timestamp="1571767113461" />
-      <file name="$USER_HOME$/Documents/Work/banner-email-queue/pom.xml" timestamp="1571767001987">
-        <mark key="'" line="82" column="35" />
-        <mark key="[" line="82" column="31" />
-        <mark key="]" line="82" column="35" />
-        <mark key="^" line="82" column="35" />
-        <mark key="." line="82" column="35" />
-      </file>
       <file name="$USER_HOME$/Documents/Work/banner-email-queue/src/main/java/edu/stetson/service/SpringApplicationAdminClient.java" timestamp="1571764973697" />
-      <file name="$USER_HOME$/Utilities/apache-maven-3.6.2/conf/settings.xml" timestamp="1571431606283">
-        <mark key="[" line="113" column="22" />
-        <mark key="]" line="113" column="40" />
-        <mark key="^" line="113" column="40" />
-        <mark key="." line="113" column="40" />
-      </file>
-      <file name="$USER_HOME$/Documents/Work/banner-email-queue/src/main/resources/application.properties" timestamp="1571856556063">
-        <mark key="[" line="3" column="36" />
-        <mark key="]" line="3" column="36" />
-        <mark key="^" line="3" column="36" />
-        <mark key="." line="3" column="36" />
-      </file>
+      <file name="$USER_HOME$/Documents/Work/banner-email-queue/jms_text_message_queue_example.pls" timestamp="1571861040333" />
       <file name="/fragment.java" timestamp="1571765250743">
         <mark key="[" line="0" column="0" />
       </file>
@@ -43,11 +58,6 @@
         <mark key="[" line="6" column="0" />
         <mark key="]" line="6" column="0" />
         <mark key="." line="6" column="0" />
-      </file>
-      <file name="$USER_HOME$/Documents/Work/banner-email-queue/src/main/java/edu/stetson/application/BannerEmailQueue.java" timestamp="1571767168679">
-        <mark key="[" line="38" column="0" />
-        <mark key="]" line="38" column="0" />
-        <mark key="." line="38" column="0" />
       </file>
     </filemarks>
     <jumps>
@@ -71,26 +81,44 @@
       <jump line="82" column="35" filename="$USER_HOME$/Documents/Work/banner-email-queue/pom.xml" />
     </jumps>
     <registers>
-      <register name="1" type="2">
-        <text encoding="base64">CQlmYWN0b3J5LnNldFB1YlN1YkRvbWFpbih0cnVlKTsK</text>
-      </register>
-      <register name="&quot;" type="2">
-        <text encoding="base64">CQlmYWN0b3J5LnNldFB1YlN1YkRvbWFpbih0cnVlKTsK</text>
-      </register>
-      <register name="2" type="2">
-        <text encoding="base64">CQk8ZGVwZW5kZW5jeT4KCQkJPGdyb3VwSWQ+Y29tLm9yYWNsZTwvZ3JvdXBJZD4KCQkJPGFydGlmYWN0SWQ+b2pkYmM3PC9hcnRpZmFjdElkPgoJCQk8dmVyc2lvbj4xMi4xLjAuMjwvdmVyc2lvbj4KCQk8L2RlcGVuZGVuY3k+Cg==</text>
-      </register>
-      <register name="3" type="2">
-        <text encoding="base64">Cg==</text>
-      </register>
-      <register name="4" type="2">
-        <text encoding="base64">ICAgCg==</text>
+      <register name="&quot;" type="4">
+        <text encoding="base64">IA==</text>
       </register>
       <register name="-" type="4">
-        <text>username</text>
+        <text encoding="base64">IA==</text>
       </register>
       <register name="/" type="4">
         <text>ojdbc</text>
+      </register>
+      <register name="0" type="2">
+        <text encoding="base64">ZGVjbGFyZQogICBwYXlsb2FkIHN5cy5hcSRfam1zX21hcF9tZXNzYWdlOwogICBpZCBwbHNfaW50ZWdlcjsKCiAgIHRvX2FkZHJlc3MgdmFyY2hhcjIoMzApIDo9ICdocGlzdG9yQHN0ZXRzb24uZWR1JzsKCiAgIHRlbXBsYXRlIHZhcmNoYXIyKDMwKSA6PSAndGVzdCc7CgogICBjb250ZW50IHZhcmNoYXIyKDMwKSA6PSAnRm9vYmFyJzsKCiAgIGVucV9tc2dpZCBSQVcoMTYpOwogICBlb3B0IGRibXNfYXEuZW5xdWV1ZV9vcHRpb25zX3Q7CiAgIG1wcm9wIGRibXNfYXEubWVzc2FnZV9wcm9wZXJ0aWVzX3Q7CmJlZ2luCiAgIHBheWxvYWQgOj0gc3lzLmFxJF9qbXNfbWFwX21lc3NhZ2UuY29uc3RydWN0KCk7CgogICBpZCA6PSBwYXlsb2FkLmNsZWFyX2JvZHkoLTEpOwogICAtLSBwYXlsb2FkLnNldF9pbnQoaWQsICdpZCcsIGkpOwogICAtLSBwYXlsb2FkLnNldF9pbnQoaWQsICdwcmlvcml0eScsIG1vZChpLCAzKSArIDEpOwogICBwYXlsb2FkLnNldF9zdHJpbmcoaWQsICd0bycsIHRvX2FkZHJlc3MpOwogICBwYXlsb2FkLnNldF9zdHJpbmcoaWQsICdzdWJqZWN0JywgJ09yYWNsZSBBZHZhbmNlZCBRdWV1ZSBUZXN0Jyk7CiAgIHBheWxvYWQuc2V0X3N0cmluZyhpZCwgJ3RlbXBsYXRlJywgdGVtcGxhdGUpOwogICBwYXlsb2FkLnNldF9zdHJpbmcoaWQsICdjb250ZW50JywgY29udGVudCk7CgogICBwYXlsb2FkLmZsdXNoKGlkKTsKICAgLS0gc3lzLmFxJF9qbXNfbWFwX21lc3NhZ2UuY2xlYW5fYWxsKCk7CiAgIHBheWxvYWQuY2xlYW4oaWQpOwoKICAgLS0gbXByb3AucHJpb3JpdHkgOj0gbW9kKGksIDMpICsgMTsKICAgZGJtc19hcS5lbnF1ZXVlKAogICAgICBxdWV1ZV9uYW1lID0+ICdlbWFpbF9xdWV1ZScsCiAgICAgIGVucXVldWVfb3B0aW9ucyA9PiBlb3B0LAogICAgICBtZXNzYWdlX3Byb3BlcnRpZXMgPT4gbXByb3AsCiAgICAgIHBheWxvYWQgPT4gcGF5bG9hZCwKICAgICAgbXNnaWQgPT4gZW5xX21zZ2lkCiAgICk7CiAgIGNvbW1pdDsKZW5kOwo=</text>
+      </register>
+      <register name="1" type="2">
+        <text encoding="base64">c3ByaW5nLm1haWwucHJvcGVydGllcy5tYWlsLnNtdHAuc29ja2V0RmFjdG9yeS5mYWxsYmFjaz1mYWxzZQo=</text>
+      </register>
+      <register name="2" type="2">
+        <text encoding="base64">c3ByaW5nLm1haWwucHJvcGVydGllcy5tYWlsLnNtdHAuc29ja2V0RmFjdG9yeS5wb3J0ID0gNDY1Cg==</text>
+      </register>
+      <register name="3" type="2">
+        <text encoding="base64">c3ByaW5nLm1haWwucHJvcGVydGllcy5tYWlsLnNtdHAuc29ja2V0RmFjdG9yeS5jbGFzcyA9IGphdmF4Lm5ldC5zc2wuU1NMU29ja2V0RmFjdG9yeQo=</text>
+      </register>
+      <register name="4" type="2">
+        <text encoding="base64">c3ByaW5nLm1haWwucHJvcGVydGllcy5tYWlsLnNtdHAuYXV0aCA9IHRydWUK</text>
+      </register>
+      <register name="5" type="2">
+        <text encoding="base64">c3ByaW5nLm1haWwucHJvcGVydGllcy5tYWlsLnNtdHAuc3RhcnR0bHMuZW5hYmxlPXRydWUKc3ByaW5nLm1haWwucHJvcGVydGllcy5tYWlsLnNtdHAuc3RhcnR0bHMucmVxdWlyZWQ9ZmFsc2UK</text>
+      </register>
+      <register name="6" type="2">
+        <text encoding="base64">c3ByaW5nLm1haWwucHJvcGVydGllcy5tYWlsLnNtdHAuc3RhcnR0bHMuZW5hYmxlID10cnVlCg==</text>
+      </register>
+      <register name="7" type="2">
+        <text encoding="base64">Cg==</text>
+      </register>
+      <register name="8" type="2">
+        <text encoding="base64">c3ByaW5nLm1haWwucG9ydD01ODcKCg==</text>
+      </register>
+      <register name="9" type="2">
+        <text encoding="base64">c3ByaW5nLm1haWwucHJvcGVydGllcy4KbWFpbC5zbXRwLnN0YXJ0dGxzLmVuYWJsZT10cnVlCg==</text>
       </register>
     </registers>
     <search>

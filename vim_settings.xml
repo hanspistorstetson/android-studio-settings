@@ -3,21 +3,27 @@
     <state version="4" enabled="true" />
     <globalmarks />
     <filemarks>
-      <file name="/Dummy.txt" timestamp="1571765250751">
+      <file name="/Dummy.txt" timestamp="1571938842245">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/Documents/Work/banner-email-queue/src/main/java/edu/stetson/application/BannerEmailQueueListener.java" timestamp="1571862186813">
-        <mark key="[" line="41" column="50" />
-        <mark key="]" line="41" column="50" />
-        <mark key="." line="41" column="50" />
-        <mark key="^" line="41" column="50" />
+      <file name="$USER_HOME$/Documents/Work/banner-email-queue/src/main/java/edu/stetson/application/BannerEmailQueueListener.java" timestamp="1571940637497">
+        <mark key="'" line="38" column="0" />
+        <mark key="[" line="29" column="0" />
+        <mark key="]" line="29" column="0" />
+        <mark key="^" line="32" column="79" />
+        <mark key="." line="29" column="0" />
       </file>
-      <file name="$USER_HOME$/Documents/Work/banner-email-queue/pom.xml" timestamp="1571767001987">
-        <mark key="'" line="82" column="35" />
-        <mark key="[" line="82" column="31" />
-        <mark key="]" line="82" column="35" />
-        <mark key="^" line="82" column="35" />
-        <mark key="." line="82" column="35" />
+      <file name="$USER_HOME$/Documents/Work/banner-email-queue/pom.xml" timestamp="1571940378121">
+        <mark key="[" line="121" column="0" />
+        <mark key="]" line="121" column="0" />
+        <mark key="^" line="120" column="20" />
+        <mark key="." line="121" column="0" />
+      </file>
+      <file name="$USER_HOME$/Documents/Work/banner-email-queue/src/main/resources/META-INF/orm.xml" timestamp="1571940266417">
+        <mark key="[" line="6" column="21" />
+        <mark key="]" line="6" column="28" />
+        <mark key="^" line="6" column="28" />
+        <mark key="." line="6" column="28" />
       </file>
       <file name="$USER_HOME$/Utilities/apache-maven-3.6.2/conf/settings.xml" timestamp="1571431606283">
         <mark key="[" line="113" column="22" />
@@ -25,7 +31,7 @@
         <mark key="^" line="113" column="40" />
         <mark key="." line="113" column="40" />
       </file>
-      <file name="$USER_HOME$/Documents/Work/banner-email-queue/src/main/resources/application.properties" timestamp="1571930455981">
+      <file name="$USER_HOME$/Documents/Work/banner-email-queue/src/main/resources/application.properties" timestamp="1571937216419">
         <mark key="[" line="16" column="0" />
         <mark key="]" line="16" column="0" />
         <mark key="^" line="15" column="18" />
@@ -35,10 +41,22 @@
         <mark key="[" line="19" column="0" />
         <mark key="]" line="56" column="4" />
       </file>
-      <file name="$USER_HOME$/Documents/Work/banner-email-queue/src/main/java/edu/stetson/application/BannerEmailQueue.java" timestamp="1571767168679">
-        <mark key="[" line="38" column="0" />
-        <mark key="]" line="38" column="0" />
-        <mark key="." line="38" column="0" />
+      <file name="$USER_HOME$/Documents/Work/banner-email-queue/src/main/java/edu/stetson/application/BannerEmailQueue.java" timestamp="1571938202377">
+        <mark key="'" line="27" column="0" />
+        <mark key="[" line="28" column="0" />
+        <mark key="]" line="28" column="0" />
+        <mark key="." line="28" column="0" />
+      </file>
+      <file name="$USER_HOME$/Documents/Work/banner-email-queue/src/main/resources/templates/test.ftlh" timestamp="1571939232446">
+        <mark key="'" line="0" column="0" />
+        <mark key="[" line="0" column="0" />
+        <mark key="]" line="27" column="6" />
+      </file>
+      <file name="$USER_HOME$/Documents/Work/banner-email-queue/src/main/java/edu/stetson/application/EmailTemplate.java" timestamp="1571940910024">
+        <mark key="[" line="12" column="8" />
+        <mark key="]" line="12" column="6" />
+        <mark key="." line="12" column="6" />
+        <mark key="^" line="12" column="6" />
       </file>
       <file name="$USER_HOME$/.m2/settings-security.xml" timestamp="1571431486528">
         <mark key="[" line="1" column="12" />
@@ -48,6 +66,11 @@
       </file>
       <file name="$USER_HOME$/Documents/Work/banner-email-queue/mvnw.cmd" timestamp="1571430735703">
         <mark key="'" line="124" column="31" />
+      </file>
+      <file name="$USER_HOME$/Documents/Work/banner-email-queue/src/main/java/edu/stetson/application/FreemarkerTemplate.java" timestamp="1571938677371">
+        <mark key="[" line="7" column="0" />
+        <mark key="]" line="7" column="0" />
+        <mark key="." line="7" column="0" />
       </file>
       <file name="$USER_HOME$/Documents/Work/banner-email-queue/src/main/java/edu/stetson/service/SpringApplicationAdminClient.java" timestamp="1571764973697" />
       <file name="$USER_HOME$/Documents/Work/banner-email-queue/jms_text_message_queue_example.pls" timestamp="1571861040333" />
@@ -59,9 +82,15 @@
         <mark key="]" line="6" column="0" />
         <mark key="." line="6" column="0" />
       </file>
+      <file name="$USER_HOME$/Documents/Work/banner-email-queue/src/main/java/edu/stetson/application/DatabaseTemplateLoader.java" timestamp="1571940851147">
+        <mark key="'" line="22" column="71" />
+        <mark key="[" line="41" column="8" />
+        <mark key="]" line="41" column="32" />
+        <mark key="^" line="41" column="32" />
+        <mark key="." line="41" column="32" />
+      </file>
     </filemarks>
     <jumps>
-      <jump line="119" column="24" filename="$USER_HOME$/Documents/Work/banner-email-queue/pom.xml" />
       <jump line="69" column="24" filename="$USER_HOME$/Documents/Work/banner-email-queue/pom.xml" />
       <jump line="64" column="24" filename="$USER_HOME$/Documents/Work/banner-email-queue/pom.xml" />
       <jump line="51" column="24" filename="$USER_HOME$/Documents/Work/banner-email-queue/pom.xml" />
@@ -75,56 +104,62 @@
       <jump line="124" column="31" filename="$USER_HOME$/Documents/Work/banner-email-queue/mvnw.cmd" />
       <jump line="27" column="0" filename="$USER_HOME$/Documents/Work/banner-email-queue/pom.xml" />
       <jump line="128" column="45" filename="$USER_HOME$/Documents/Work/banner-email-queue/pom.xml" />
-      <jump line="83" column="24" filename="$USER_HOME$/Documents/Work/banner-email-queue/pom.xml" />
       <jump line="76" column="24" filename="$USER_HOME$/Documents/Work/banner-email-queue/pom.xml" />
       <jump line="91" column="40" filename="$USER_HOME$/Documents/Work/banner-email-queue/pom.xml" />
       <jump line="82" column="35" filename="$USER_HOME$/Documents/Work/banner-email-queue/pom.xml" />
+      <jump line="38" column="0" filename="$USER_HOME$/Documents/Work/banner-email-queue/src/main/java/edu/stetson/application/BannerEmailQueueListener.java" />
+      <jump line="19" column="71" filename="$USER_HOME$/Documents/Work/banner-email-queue/src/main/java/edu/stetson/application/DatabaseTemplateLoader.java" />
+      <jump line="24" column="0" filename="$USER_HOME$/Documents/Work/banner-email-queue/src/main/java/edu/stetson/application/BannerEmailQueue.java" />
+      <jump line="8" column="20" filename="$USER_HOME$/Documents/Work/banner-email-queue/src/main/resources/templates/test.ftlh" />
+      <jump line="0" column="0" filename="$USER_HOME$/Documents/Work/banner-email-queue/src/main/resources/templates/test.ftlh" />
+      <jump line="83" column="40" filename="$USER_HOME$/Documents/Work/banner-email-queue/pom.xml" />
+      <jump line="119" column="36" filename="$USER_HOME$/Documents/Work/banner-email-queue/pom.xml" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">c3ByaW5nLm1haWwucHJvcGVydGllcy5tYWlsLnNtdHAuc3RhcnR0bHMuZW5hYmxlPXRydWUKc3ByaW5nLm1haWwucHJvcGVydGllcy5tYWlsLnNtdHAuc3RhcnR0bHMucmVxdWlyZWQ9dHJ1ZQo=</text>
+      <register name="&quot;" type="4">
+        <text>name = &quot;freemarker&quot;)</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">IA==</text>
+        <text>name = &quot;freemarker&quot;)</text>
       </register>
       <register name="/" type="4">
-        <text>ojdbc</text>
+        <text>jpa</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ZGVjbGFyZQogICBwYXlsb2FkIHN5cy5hcSRfam1zX21hcF9tZXNzYWdlOwogICBpZCBwbHNfaW50ZWdlcjsKCiAgIHRvX2FkZHJlc3MgdmFyY2hhcjIoMzApIDo9ICdocGlzdG9yQHN0ZXRzb24uZWR1JzsKCiAgIHRlbXBsYXRlIHZhcmNoYXIyKDMwKSA6PSAndGVzdCc7CgogICBjb250ZW50IHZhcmNoYXIyKDMwKSA6PSAnRm9vYmFyJzsKCiAgIGVucV9tc2dpZCBSQVcoMTYpOwogICBlb3B0IGRibXNfYXEuZW5xdWV1ZV9vcHRpb25zX3Q7CiAgIG1wcm9wIGRibXNfYXEubWVzc2FnZV9wcm9wZXJ0aWVzX3Q7CmJlZ2luCiAgIHBheWxvYWQgOj0gc3lzLmFxJF9qbXNfbWFwX21lc3NhZ2UuY29uc3RydWN0KCk7CgogICBpZCA6PSBwYXlsb2FkLmNsZWFyX2JvZHkoLTEpOwogICAtLSBwYXlsb2FkLnNldF9pbnQoaWQsICdpZCcsIGkpOwogICAtLSBwYXlsb2FkLnNldF9pbnQoaWQsICdwcmlvcml0eScsIG1vZChpLCAzKSArIDEpOwogICBwYXlsb2FkLnNldF9zdHJpbmcoaWQsICd0bycsIHRvX2FkZHJlc3MpOwogICBwYXlsb2FkLnNldF9zdHJpbmcoaWQsICdzdWJqZWN0JywgJ09yYWNsZSBBZHZhbmNlZCBRdWV1ZSBUZXN0Jyk7CiAgIHBheWxvYWQuc2V0X3N0cmluZyhpZCwgJ3RlbXBsYXRlJywgdGVtcGxhdGUpOwogICBwYXlsb2FkLnNldF9zdHJpbmcoaWQsICdjb250ZW50JywgY29udGVudCk7CgogICBwYXlsb2FkLmZsdXNoKGlkKTsKICAgLS0gc3lzLmFxJF9qbXNfbWFwX21lc3NhZ2UuY2xlYW5fYWxsKCk7CiAgIHBheWxvYWQuY2xlYW4oaWQpOwoKICAgLS0gbXByb3AucHJpb3JpdHkgOj0gbW9kKGksIDMpICsgMTsKICAgZGJtc19hcS5lbnF1ZXVlKAogICAgICBxdWV1ZV9uYW1lID0+ICdlbWFpbF9xdWV1ZScsCiAgICAgIGVucXVldWVfb3B0aW9ucyA9PiBlb3B0LAogICAgICBtZXNzYWdlX3Byb3BlcnRpZXMgPT4gbXByb3AsCiAgICAgIHBheWxvYWQgPT4gcGF5bG9hZCwKICAgICAgbXNnaWQgPT4gZW5xX21zZ2lkCiAgICk7CiAgIGNvbW1pdDsKZW5kOwo=</text>
+        <text encoding="base64">ICAgICAgICB0cnkgewogICAgICAgICAgICBTdGF0ZW1lbnQgc3RhdGVtZW50ID0gZGF0YVNvdXJjZS5nZXRDb25uZWN0aW9uKCkuY3JlYXRlU3RhdGVtZW50KCk7CiAgICAgICAgICAgIFJlc3VsdFNldCBycyA9IHN0YXRlbWVudC5leGVjdXRlUXVlcnkoInNlbGVjdCBmcmVlbWFya2VyX25hbWUsIGZyZWVtYXJrZXJfdGVtcGxhdGUgZnJvbSBmcmVlbWFya2VyIik7CiAgICAgICAgICAgIHJzLm5leHQoKTsKICAgICAgICAgICAgbG9nZ2VyLmRlYnVnKCJUZW1wbGF0ZSBuYW1lID0gIiArIHJzLmdldFN0cmluZygiZnJlZW1hcmtlcl9uYW1lIikgKyAiXG4gVGVtcGxhdGUgPSAiICsgcnMuZ2V0Q2xvYigiZnJlZW1hcmtlcl90ZW1wbGF0ZSIpLnRvU3RyaW5nKCkpOwogICAgICAgIH0gY2F0Y2ggKFNRTEV4Y2VwdGlvbiBlKSB7CiAgICAgICAgICAgIGxvZ2dlci5lcnJvcihlLmdldE1lc3NhZ2UoKSk7CiAgICAgICAgfQo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">c3ByaW5nLm1haWwucHJvcGVydGllcy5tYWlsLnNtdHAuc3RhcnR0bHMuZW5hYmxlPXRydWUKc3ByaW5nLm1haWwucHJvcGVydGllcy5tYWlsLnNtdHAuc3RhcnR0bHMucmVxdWlyZWQ9dHJ1ZQo=</text>
+        <text encoding="base64">QEVudGl0eSgpCg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">c3ByaW5nLm1haWwucHJvcGVydGllcy5tYWlsLnNtdHAuc29ja2V0RmFjdG9yeS5mYWxsYmFjaz1mYWxzZQo=</text>
-      </register>
-      <register name="3" type="2">
-        <text encoding="base64">c3ByaW5nLm1haWwucHJvcGVydGllcy5tYWlsLnNtdHAuc29ja2V0RmFjdG9yeS5wb3J0ID0gNDY1Cg==</text>
-      </register>
-      <register name="4" type="2">
-        <text encoding="base64">c3ByaW5nLm1haWwucHJvcGVydGllcy5tYWlsLnNtdHAuc29ja2V0RmFjdG9yeS5jbGFzcyA9IGphdmF4Lm5ldC5zc2wuU1NMU29ja2V0RmFjdG9yeQo=</text>
-      </register>
-      <register name="5" type="2">
-        <text encoding="base64">c3ByaW5nLm1haWwucHJvcGVydGllcy5tYWlsLnNtdHAuYXV0aCA9IHRydWUK</text>
-      </register>
-      <register name="6" type="2">
-        <text encoding="base64">c3ByaW5nLm1haWwucHJvcGVydGllcy5tYWlsLnNtdHAuc3RhcnR0bHMuZW5hYmxlPXRydWUKc3ByaW5nLm1haWwucHJvcGVydGllcy5tYWlsLnNtdHAuc3RhcnR0bHMucmVxdWlyZWQ9ZmFsc2UK</text>
-      </register>
-      <register name="7" type="2">
-        <text encoding="base64">c3ByaW5nLm1haWwucHJvcGVydGllcy5tYWlsLnNtdHAuc3RhcnR0bHMuZW5hYmxlID10cnVlCg==</text>
-      </register>
-      <register name="8" type="2">
         <text encoding="base64">Cg==</text>
       </register>
+      <register name="3" type="2">
+        <text encoding="base64">Cg==</text>
+      </register>
+      <register name="4" type="2">
+        <text encoding="base64">CXByaXZhdGUgRGF0YVNvdXJjZSBkYXRhU291cmNlOwo=</text>
+      </register>
+      <register name="5" type="2">
+        <text encoding="base64">ICAgICAgICByZXR1cm4gbnVsbDsK</text>
+      </register>
+      <register name="6" type="2">
+        <text encoding="base64">ICAgICAgICByZXR1cm4gMDsK</text>
+      </register>
+      <register name="7" type="2">
+        <text encoding="base64">CiAgICBwdWJsaWMgRGF0YWJhc2VUZW1wbGF0ZUxvYWRlcihEYXRhU291cmNlIGRhdGFTb3VyY2UpIHsKICAgIH0K</text>
+      </register>
+      <register name="8" type="2">
+        <text encoding="base64">ICAgICAgICB0aGlzLmRhdGFTb3VyY2UgPSBkYXRhU291cmNlOwo=</text>
+      </register>
       <register name="9" type="2">
-        <text encoding="base64">c3ByaW5nLm1haWwucG9ydD01ODcKCg==</text>
+        <text encoding="base64">Ly8gICAgICAgIHRyeSB7Ci8vLy8gICAgICAgICAgICBTdGF0ZW1lbnQgc3RhdGVtZW50ID0gZGF0YVNvdXJjZS5nZXRDb25uZWN0aW9uKCkuY3JlYXRlU3RhdGVtZW50KCk7Ci8vLy8gICAgICAgICAgICBSZXN1bHRTZXQgcnMgPSBzdGF0ZW1lbnQuZXhlY3V0ZVF1ZXJ5KCJzZWxlY3QgZW1waWQsIG5hbWUgZnJvbSBlbXBsb3llZSIpOwovLy8vICAgICAgICAgICAgd2hpbGUgKHJzLm5leHQoKSkgewovLy8vICAgICAgICAgICAgICAgIGxvZ2dlci5kZWJ1ZygiRW1wbG95ZWUgSUQ9IiArIHJzLmdldEludCgiZW1waWQiKSArICIsIG5hbWUgPSAiICsgcnMuZ2V0U3RyaW5nKCJuYW1lIikpOwovLy8vICAgICAgICAgICAgfQovLy8vICAgICAgICB9IGNhdGNoIChTUUxFeGNlcHRpb24gZSkgewovLy8vICAgICAgICAgICAgbG9nZ2VyLmVycm9yKGUuZ2V0TWVzc2FnZSgpKTsKLy8vLyAgICAgICAgfQo=</text>
       </register>
     </registers>
     <search>
-      <last-search>ojdbc</last-search>
+      <last-search>jpa</last-search>
       <last-offset />
-      <last-pattern>ojdbc</last-pattern>
+      <last-pattern>jpa</last-pattern>
       <last-dir>1</last-dir>
       <show-last>false</show-last>
     </search>
@@ -134,6 +169,7 @@
         <entry>DownloadFile</entry>
         <entry>DOWNLOAD_URL</entry>
         <entry>ojdbc</entry>
+        <entry>jpa</entry>
       </history-search>
     </history>
     <shortcut-conflicts>

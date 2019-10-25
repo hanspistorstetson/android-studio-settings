@@ -3,15 +3,20 @@
     <state version="4" enabled="true" />
     <globalmarks />
     <filemarks>
+      <file name="$USER_HOME$/Documents/Work/banner-email-queue/src/main/resources/templates/header.ftlh" timestamp="1572019188751">
+        <mark key="'" line="0" column="0" />
+        <mark key="[" line="0" column="0" />
+        <mark key="]" line="21" column="8" />
+      </file>
       <file name="/Dummy.txt" timestamp="1571938842245">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/Documents/Work/banner-email-queue/src/main/java/edu/stetson/application/BannerEmailQueueListener.java" timestamp="1571940637497">
+      <file name="$USER_HOME$/Documents/Work/banner-email-queue/src/main/java/edu/stetson/application/BannerEmailQueueListener.java" timestamp="1572019464735">
         <mark key="'" line="38" column="0" />
-        <mark key="[" line="29" column="0" />
-        <mark key="]" line="29" column="0" />
-        <mark key="^" line="32" column="79" />
-        <mark key="." line="29" column="0" />
+        <mark key="[" line="61" column="41" />
+        <mark key="]" line="61" column="39" />
+        <mark key="^" line="61" column="39" />
+        <mark key="." line="61" column="39" />
       </file>
       <file name="$USER_HOME$/Documents/Work/banner-email-queue/pom.xml" timestamp="1571940378121">
         <mark key="[" line="121" column="0" />
@@ -25,38 +30,45 @@
         <mark key="^" line="6" column="28" />
         <mark key="." line="6" column="28" />
       </file>
+      <file name="$USER_HOME$/Documents/Work/banner-email-queue/src/main/resources/templates/internship_create.ftlh" timestamp="1572019124369">
+        <mark key="[" line="0" column="0" />
+        <mark key="]" line="0" column="24" />
+      </file>
       <file name="$USER_HOME$/Utilities/apache-maven-3.6.2/conf/settings.xml" timestamp="1571431606283">
         <mark key="[" line="113" column="22" />
         <mark key="]" line="113" column="40" />
         <mark key="^" line="113" column="40" />
         <mark key="." line="113" column="40" />
       </file>
-      <file name="$USER_HOME$/Documents/Work/banner-email-queue/src/main/resources/application.properties" timestamp="1571937216419">
-        <mark key="[" line="16" column="0" />
-        <mark key="]" line="16" column="0" />
-        <mark key="^" line="15" column="18" />
-        <mark key="." line="16" column="0" />
+      <file name="$USER_HOME$/Documents/Work/banner-email-queue/src/main/resources/application.properties" timestamp="1572018836608">
+        <mark key="[" line="6" column="41" />
+        <mark key="]" line="6" column="37" />
+        <mark key="." line="6" column="37" />
+        <mark key="^" line="6" column="37" />
       </file>
       <file name="$USER_HOME$/Documents/Work/banner-email-queue/jms_map_message_example.pls" timestamp="1571862065756">
         <mark key="[" line="19" column="0" />
         <mark key="]" line="56" column="4" />
       </file>
-      <file name="$USER_HOME$/Documents/Work/banner-email-queue/src/main/java/edu/stetson/application/BannerEmailQueue.java" timestamp="1571938202377">
-        <mark key="'" line="27" column="0" />
-        <mark key="[" line="28" column="0" />
-        <mark key="]" line="28" column="0" />
-        <mark key="." line="28" column="0" />
+      <file name="$USER_HOME$/Documents/Work/banner-email-queue/src/main/java/edu/stetson/application/BannerEmailQueue.java" timestamp="1572018757014">
+        <mark key="'" line="46" column="0" />
+        <mark key="[" line="30" column="34" />
+        <mark key="]" line="30" column="67" />
+        <mark key="." line="43" column="44" />
+        <mark key="^" line="43" column="44" />
       </file>
-      <file name="$USER_HOME$/Documents/Work/banner-email-queue/src/main/resources/templates/test.ftlh" timestamp="1571939232446">
-        <mark key="'" line="0" column="0" />
-        <mark key="[" line="0" column="0" />
-        <mark key="]" line="27" column="6" />
+      <file name="$USER_HOME$/Documents/Work/banner-email-queue/src/main/resources/templates/test.ftlh" timestamp="1572019377582">
+        <mark key="'" line="8" column="17" />
+        <mark key="[" line="8" column="17" />
+        <mark key="]" line="8" column="21" />
+        <mark key="." line="8" column="21" />
+        <mark key="^" line="8" column="21" />
       </file>
-      <file name="$USER_HOME$/Documents/Work/banner-email-queue/src/main/java/edu/stetson/application/EmailTemplate.java" timestamp="1571940910024">
-        <mark key="[" line="12" column="8" />
-        <mark key="]" line="12" column="6" />
-        <mark key="." line="12" column="6" />
-        <mark key="^" line="12" column="6" />
+      <file name="$USER_HOME$/Documents/Work/banner-email-queue/src/main/java/edu/stetson/application/EmailTemplate.java" timestamp="1572018667473">
+        <mark key="[" line="15" column="24" />
+        <mark key="]" line="16" column="3" />
+        <mark key="." line="16" column="3" />
+        <mark key="^" line="16" column="3" />
       </file>
       <file name="$USER_HOME$/.m2/settings-security.xml" timestamp="1571431486528">
         <mark key="[" line="1" column="12" />
@@ -64,30 +76,40 @@
         <mark key="^" line="1" column="57" />
         <mark key="." line="1" column="57" />
       </file>
-      <file name="$USER_HOME$/Documents/Work/banner-email-queue/mvnw.cmd" timestamp="1571430735703">
-        <mark key="'" line="124" column="31" />
-      </file>
       <file name="$USER_HOME$/Documents/Work/banner-email-queue/src/main/java/edu/stetson/application/FreemarkerTemplate.java" timestamp="1571938677371">
         <mark key="[" line="7" column="0" />
         <mark key="]" line="7" column="0" />
         <mark key="." line="7" column="0" />
       </file>
       <file name="$USER_HOME$/Documents/Work/banner-email-queue/src/main/java/edu/stetson/service/SpringApplicationAdminClient.java" timestamp="1571764973697" />
+      <file name="$USER_HOME$/Documents/Work/banner-email-queue/src/main/java/edu/stetson/application/PersistenceJPAConfig.java" timestamp="1572017516182">
+        <mark key="[" line="18" column="56" />
+        <mark key="]" line="18" column="52" />
+        <mark key="^" line="18" column="52" />
+        <mark key="." line="18" column="52" />
+      </file>
       <file name="$USER_HOME$/Documents/Work/banner-email-queue/jms_text_message_queue_example.pls" timestamp="1571861040333" />
+      <file name="$USER_HOME$/Documents/Work/banner-email-queue/src/main/resources/templates/footer.ftlh" timestamp="1572019402462">
+        <mark key="'" line="0" column="0" />
+        <mark key="[" line="0" column="0" />
+        <mark key="]" line="2" column="7" />
+        <mark key="^" line="0" column="3" />
+        <mark key="." line="0" column="3" />
+      </file>
       <file name="/fragment.java" timestamp="1571765250743">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/Documents/Work/banner-email-queue/src/main/resources/templates/approval_queue.ftlh" timestamp="1571429901597">
-        <mark key="[" line="6" column="0" />
-        <mark key="]" line="6" column="0" />
-        <mark key="." line="6" column="0" />
+      <file name="$USER_HOME$/Documents/Work/banner-email-queue/src/main/java/edu/stetson/application/EmailTemplateRepository.java" timestamp="1572018101911">
+        <mark key="[" line="6" column="88" />
+        <mark key="]" line="7" column="41" />
+        <mark key="." line="7" column="41" />
+        <mark key="^" line="7" column="41" />
       </file>
-      <file name="$USER_HOME$/Documents/Work/banner-email-queue/src/main/java/edu/stetson/application/DatabaseTemplateLoader.java" timestamp="1571940851147">
-        <mark key="'" line="22" column="71" />
-        <mark key="[" line="41" column="8" />
-        <mark key="]" line="41" column="32" />
-        <mark key="^" line="41" column="32" />
-        <mark key="." line="41" column="32" />
+      <file name="$USER_HOME$/Documents/Work/banner-email-queue/src/main/java/edu/stetson/application/DatabaseTemplateLoader.java" timestamp="1572018917608">
+        <mark key="[" line="37" column="0" />
+        <mark key="]" line="37" column="0" />
+        <mark key="." line="37" column="0" />
+        <mark key="^" line="37" column="74" />
       </file>
     </filemarks>
     <jumps>
@@ -110,50 +132,58 @@
       <jump line="38" column="0" filename="$USER_HOME$/Documents/Work/banner-email-queue/src/main/java/edu/stetson/application/BannerEmailQueueListener.java" />
       <jump line="19" column="71" filename="$USER_HOME$/Documents/Work/banner-email-queue/src/main/java/edu/stetson/application/DatabaseTemplateLoader.java" />
       <jump line="24" column="0" filename="$USER_HOME$/Documents/Work/banner-email-queue/src/main/java/edu/stetson/application/BannerEmailQueue.java" />
-      <jump line="8" column="20" filename="$USER_HOME$/Documents/Work/banner-email-queue/src/main/resources/templates/test.ftlh" />
-      <jump line="0" column="0" filename="$USER_HOME$/Documents/Work/banner-email-queue/src/main/resources/templates/test.ftlh" />
       <jump line="83" column="40" filename="$USER_HOME$/Documents/Work/banner-email-queue/pom.xml" />
       <jump line="119" column="36" filename="$USER_HOME$/Documents/Work/banner-email-queue/pom.xml" />
+      <jump line="41" column="67" filename="$USER_HOME$/Documents/Work/banner-email-queue/src/main/java/edu/stetson/application/DatabaseTemplateLoader.java" />
+      <jump line="32" column="32" filename="$USER_HOME$/Documents/Work/banner-email-queue/src/main/java/edu/stetson/application/EmailTemplate.java" />
+      <jump line="26" column="9" filename="$USER_HOME$/Documents/Work/banner-email-queue/src/main/resources/templates/test.ftlh" />
+      <jump line="0" column="0" filename="$USER_HOME$/Documents/Work/banner-email-queue/src/main/resources/templates/test.ftlh" />
+      <jump line="8" column="17" filename="$USER_HOME$/Documents/Work/banner-email-queue/src/main/resources/templates/test.ftlh" />
+      <jump line="21" column="8" filename="$USER_HOME$/Documents/Work/banner-email-queue/src/main/resources/templates/header.ftlh" />
+      <jump line="7" column="3" filename="$USER_HOME$/Documents/Work/banner-email-queue/src/main/resources/templates/header.ftlh" />
+      <jump line="0" column="0" filename="$USER_HOME$/Documents/Work/banner-email-queue/src/main/resources/templates/header.ftlh" />
+      <jump line="1" column="0" filename="$USER_HOME$/Documents/Work/banner-email-queue/src/main/resources/templates/footer.ftlh" />
+      <jump line="0" column="0" filename="$USER_HOME$/Documents/Work/banner-email-queue/src/main/resources/templates/footer.ftlh" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>name = &quot;freemarker&quot;)</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">dGVzdAogICA8L2JvZHk+CjwvaHRtbD4K</text>
       </register>
       <register name="-" type="4">
-        <text>name = &quot;freemarker&quot;)</text>
+        <text>.ftlh</text>
       </register>
       <register name="/" type="4">
         <text>jpa</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICB0cnkgewogICAgICAgICAgICBTdGF0ZW1lbnQgc3RhdGVtZW50ID0gZGF0YVNvdXJjZS5nZXRDb25uZWN0aW9uKCkuY3JlYXRlU3RhdGVtZW50KCk7CiAgICAgICAgICAgIFJlc3VsdFNldCBycyA9IHN0YXRlbWVudC5leGVjdXRlUXVlcnkoInNlbGVjdCBmcmVlbWFya2VyX25hbWUsIGZyZWVtYXJrZXJfdGVtcGxhdGUgZnJvbSBmcmVlbWFya2VyIik7CiAgICAgICAgICAgIHJzLm5leHQoKTsKICAgICAgICAgICAgbG9nZ2VyLmRlYnVnKCJUZW1wbGF0ZSBuYW1lID0gIiArIHJzLmdldFN0cmluZygiZnJlZW1hcmtlcl9uYW1lIikgKyAiXG4gVGVtcGxhdGUgPSAiICsgcnMuZ2V0Q2xvYigiZnJlZW1hcmtlcl90ZW1wbGF0ZSIpLnRvU3RyaW5nKCkpOwogICAgICAgIH0gY2F0Y2ggKFNRTEV4Y2VwdGlvbiBlKSB7CiAgICAgICAgICAgIGxvZ2dlci5lcnJvcihlLmdldE1lc3NhZ2UoKSk7CiAgICAgICAgfQo=</text>
+        <text encoding="base64">dGVzdAogICA8L2JvZHk+CjwvaHRtbD4K</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">QEVudGl0eSgpCg==</text>
+        <text encoding="base64">ICAgPC9ib2R5Pgo8L2h0bWw+Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">PGh0bWw+CiAgIDxoZWFkPgo8c3R5bGU+CmJvZHkgewogIGZvbnQtc2l6ZTogMTEuMHB0OwogIGZvbnQtZmFtaWx5OiJDYWxpYnJpIiwgc2Fucy1zZXJpZjsKfQpoMSB7CiAgbWFyZ2luLXRvcDogMTIuMHB0OwogIGZvbnQtc2l6ZTogMTYuMHB0OwogIGZvbnQtZmFtaWx5OiJDYWxpYnJpIiwgc2Fucy1zZXJpZjsKfQpwLCB1bCwgb2wgewogIG1hcmdpbjogMGluOwogIG1hcmdpbi1ib3R0b206IDBwdDsKfQo8L3N0eWxlPgogICA8L2hlYWQ+CiAgIDxib2R5Pgo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">CXByaXZhdGUgRGF0YVNvdXJjZSBkYXRhU291cmNlOwo=</text>
+        <text encoding="base64">ICAgICAgICBlbWFpbFRlbXBsYXRlLgo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICByZXR1cm4gbnVsbDsK</text>
+        <text encoding="base64">ICAgICAgICBlbS5yZWZyZXNoKGVtYWlsVGVtcGxhdGUpOwo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICByZXR1cm4gMDsK</text>
+        <text encoding="base64">ICAgICAgICAK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">CiAgICBwdWJsaWMgRGF0YWJhc2VUZW1wbGF0ZUxvYWRlcihEYXRhU291cmNlIGRhdGFTb3VyY2UpIHsKICAgIH0K</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICB0aGlzLmRhdGFTb3VyY2UgPSBkYXRhU291cmNlOwo=</text>
+        <text encoding="base64">ICAgICAgICByZXR1cm4gZW0uZmluZChFbWFpbFRlbXBsYXRlLmNsYXNzLCBuYW1lKTsK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">Ly8gICAgICAgIHRyeSB7Ci8vLy8gICAgICAgICAgICBTdGF0ZW1lbnQgc3RhdGVtZW50ID0gZGF0YVNvdXJjZS5nZXRDb25uZWN0aW9uKCkuY3JlYXRlU3RhdGVtZW50KCk7Ci8vLy8gICAgICAgICAgICBSZXN1bHRTZXQgcnMgPSBzdGF0ZW1lbnQuZXhlY3V0ZVF1ZXJ5KCJzZWxlY3QgZW1waWQsIG5hbWUgZnJvbSBlbXBsb3llZSIpOwovLy8vICAgICAgICAgICAgd2hpbGUgKHJzLm5leHQoKSkgewovLy8vICAgICAgICAgICAgICAgIGxvZ2dlci5kZWJ1ZygiRW1wbG95ZWUgSUQ9IiArIHJzLmdldEludCgiZW1waWQiKSArICIsIG5hbWUgPSAiICsgcnMuZ2V0U3RyaW5nKCJuYW1lIikpOwovLy8vICAgICAgICAgICAgfQovLy8vICAgICAgICB9IGNhdGNoIChTUUxFeGNlcHRpb24gZSkgewovLy8vICAgICAgICAgICAgbG9nZ2VyLmVycm9yKGUuZ2V0TWVzc2FnZSgpKTsKLy8vLyAgICAgICAgfQo=</text>
+        <text encoding="base64">ICAgICAgICBsb2dnZXIuZXJyb3IoZW0udG9TdHJpbmcoKSk7CiAgICAgICAgbG9nZ2VyLmVycm9yKGVtLmZpbmQoRW1haWxUZW1wbGF0ZS5jbGFzcywgbmFtZSkudG9TdHJpbmcoKSk7Cg==</text>
       </register>
     </registers>
     <search>
@@ -223,6 +253,12 @@
       </shortcut-conflict>
       <shortcut-conflict owner="vim">
         <text>ctrl pressed L</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="vim">
+        <text>ctrl pressed 2</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="vim">
+        <text>ctrl pressed O</text>
       </shortcut-conflict>
     </shortcut-conflicts>
   </component>

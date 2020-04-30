@@ -163,6 +163,12 @@
       <file name="$USER_HOME$/Desktop/StudentAttendance/app/src/main/java/edu/stetson/MainActivity.kt" timestamp="1586287732409">
         <mark key="[" line="5" column="7" />
       </file>
+      <file name="$USER_HOME$/Desktop/AndroidKotlinBoilerplate/app/src/main/java/com/ankitsharma/androidkotlinboilerplate/common/BaseViewModel.kt" timestamp="1588272433437">
+        <mark key="[" line="15" column="72" />
+        <mark key="]" line="19" column="5" />
+        <mark key="^" line="19" column="5" />
+        <mark key="." line="19" column="4" />
+      </file>
       <file name="$USER_HOME$/Desktop/StudentAttendance/app/src/main/java/edu/stetson/LoginActivity.kt" timestamp="1586287797466">
         <mark key="]" line="11" column="1" />
         <mark key="^" line="11" column="1" />
@@ -203,14 +209,8 @@
         <mark key="^" line="4" column="49" />
         <mark key="." line="4" column="49" />
       </file>
-      <file name="/fragment.java" timestamp="1586289156829">
+      <file name="/fragment.java" timestamp="1588272581618">
         <mark key="[" line="0" column="0" />
-      </file>
-      <file name="$USER_HOME$/Documents/Work/AndroidApp/StetsonAuth/app/src/androidTest/java/edu/stetson/stetsonauth/LogHistoryAndroidUnitTest.kt" timestamp="1586282069922">
-        <mark key="'" line="16" column="0" />
-        <mark key="[" line="3" column="0" />
-        <mark key="]" line="3" column="0" />
-        <mark key="." line="3" column="0" />
       </file>
     </filemarks>
     <jumps>

@@ -1,6 +1,36 @@
 <application>
-  <component name="VimSettings">
-    <state version="5" enabled="true" />
+  <component name="VimEditorSettings">
+    <editor />
+  </component>
+  <component name="VimHistorySettings">
+    <history>
+      <history-search>
+        <entry>spring-boot</entry>
+        <entry>DownloadFile</entry>
+        <entry>DOWNLOAD_URL</entry>
+        <entry>ojdbc</entry>
+        <entry>jpa</entry>
+        <entry>OnetIme</entry>
+        <entry>OneTime</entry>
+        <entry>constructor</entry>
+        <entry>show-notification</entry>
+        <entry>elementProgressBar</entry>
+        <entry>anchor</entry>
+        <entry>Application</entry>
+        <entry>accountIssuer</entry>
+        <entry>submit</entry>
+        <entry>show-not</entry>
+        <entry>Button</entry>
+        <entry>onLongClick</entry>
+        <entry>test</entry>
+        <entry>debug</entry>
+      </history-search>
+      <history-cmd />
+      <history-expr />
+      <history-input />
+    </history>
+  </component>
+  <component name="VimKeySettings">
     <shortcut-conflicts>
       <shortcut-conflict owner="vim">
         <text>ctrl pressed S</text>
@@ -72,7 +102,284 @@
         <text>ctrl pressed K</text>
       </shortcut-conflict>
     </shortcut-conflicts>
-    <editor />
+  </component>
+  <component name="VimMarksSettings">
+    <globalmarks />
+    <filemarks>
+      <file name="$USER_HOME$/Documents/Work/AndroidApp/StetsonAuth/app/src/test/java/edu/stetson/stetsonauth/APITest.kt" timestamp="1586283444653">
+        <mark key="[" line="65" column="0" />
+        <mark key="]" line="69" column="34" />
+      </file>
+      <file name="$USER_HOME$/Desktop/StudentAttendance/app/src/test/java/edu/stetson/login/LoginPresenterTest.kt" timestamp="1586289589212">
+        <mark key="[" line="29" column="5" />
+        <mark key="]" line="34" column="70" />
+        <mark key="." line="34" column="70" />
+        <mark key="^" line="34" column="70" />
+      </file>
+      <file name="$USER_HOME$/Documents/Work/AndroidApp/StetsonAuth/app/src/main/java/edu/stetson/stetsonauth/fragments/account_list/AccountListViewModel.kt" timestamp="1586289998852">
+        <mark key="'" line="218" column="0" />
+      </file>
+      <file name="$USER_HOME$/Desktop/StudentAttendance/app/src/main/res/layout/activity_login.xml" timestamp="1586288029075">
+        <mark key="[" line="3" column="50" />
+        <mark key="]" line="4" column="34" />
+        <mark key="." line="4" column="34" />
+        <mark key="^" line="4" column="34" />
+      </file>
+      <file name="$USER_HOME$/Desktop/StudentAttendance/app/src/main/AndroidManifest.xml" timestamp="1586287974568">
+        <mark key="[" line="4" column="16" />
+        <mark key="]" line="5" column="50" />
+        <mark key="^" line="5" column="50" />
+        <mark key="." line="5" column="50" />
+      </file>
+      <file name="$USER_HOME$/Documents/Work/AndroidApp/StetsonAuth/app/src/main/java/edu/stetson/stetsonauth/database/Account.kt" timestamp="1586291349750">
+        <mark key="[" line="24" column="25" />
+        <mark key="]" line="24" column="23" />
+        <mark key="." line="24" column="23" />
+        <mark key="^" line="24" column="23" />
+      </file>
+      <file name="$USER_HOME$/Documents/Work/AndroidApp/StetsonAuth/app/src/main/java/edu/stetson/stetsonauth/firebase/StetsonFirebaseMessagingService.kt" timestamp="1586282633241">
+        <mark key="'" line="72" column="25" />
+        <mark key="[" line="37" column="0" />
+        <mark key="]" line="37" column="0" />
+        <mark key="^" line="174" column="51" />
+        <mark key="." line="37" column="0" />
+      </file>
+      <file name="$USER_HOME$/Documents/Work/AndroidApp/StetsonAuth/app/src/androidTest/java/edu/stetson/stetsonauth/TestUtil.kt" timestamp="1586291318400">
+        <mark key="[" line="8" column="27" />
+        <mark key="]" line="8" column="27" />
+        <mark key="." line="8" column="27" />
+        <mark key="^" line="8" column="32" />
+      </file>
+      <file name="$USER_HOME$/Documents/Work/AndroidApp/StetsonAuth/app/build.gradle" timestamp="1586290822690">
+        <mark key="'" line="108" column="56" />
+        <mark key="[" line="16" column="8" />
+        <mark key="]" line="16" column="26" />
+        <mark key="^" line="16" column="26" />
+        <mark key="." line="16" column="26" />
+      </file>
+      <file name="$USER_HOME$/Desktop/StudentAttendance/app/src/main/java/edu/stetson/MainActivity.kt" timestamp="1586287732409">
+        <mark key="[" line="5" column="7" />
+      </file>
+      <file name="$USER_HOME$/Desktop/StudentAttendance/app/src/main/java/edu/stetson/LoginActivity.kt" timestamp="1586287797466">
+        <mark key="]" line="11" column="1" />
+        <mark key="^" line="11" column="1" />
+        <mark key="." line="11" column="1" />
+      </file>
+      <file name="$USER_HOME$/Documents/Work/AndroidApp/StetsonAuth/app/src/androidTest/java/edu/stetson/stetsonauth/MockTest.kt" timestamp="1586290386366">
+        <mark key="'" line="64" column="0" />
+        <mark key="[" line="64" column="0" />
+        <mark key="]" line="68" column="34" />
+        <mark key="." line="51" column="11" />
+        <mark key="^" line="51" column="11" />
+      </file>
+      <file name="$USER_HOME$/Documents/Work/AndroidApp/StetsonAuth/app/src/androidTest/java/edu/stetson/stetsonauth/APITest.kt" timestamp="1586281598799">
+        <mark key="[" line="0" column="0" />
+        <mark key="]" line="0" column="0" />
+        <mark key="." line="0" column="0" />
+      </file>
+      <file name="$USER_HOME$/Desktop/StudentAttendance/app/src/test/java/edu/stetson/login/LoginPresenterTest.groovy" timestamp="1586289203346">
+        <mark key="[" line="4" column="26" />
+      </file>
+      <file name="$USER_HOME$/Documents/Work/AndroidApp/StetsonAuth/app/src/main/java/edu/stetson/stetsonauth/networking/AccountService.kt" timestamp="1586286918634">
+        <mark key="'" line="175" column="0" />
+        <mark key="[" line="136" column="0" />
+        <mark key="]" line="173" column="13" />
+        <mark key="^" line="200" column="4" />
+        <mark key="." line="200" column="0" />
+      </file>
+      <file name="$USER_HOME$/Desktop/StudentAttendance/app/src/main/java/edu/stetson/login/LoginPresenter.kt" timestamp="1586289671438">
+        <mark key="[" line="13" column="67" />
+        <mark key="]" line="16" column="19" />
+        <mark key="." line="16" column="19" />
+        <mark key="^" line="16" column="19" />
+      </file>
+      <file name="$USER_HOME$/Documents/Work/AndroidApp/StetsonAuth/app/src/androidTest/java/edu/stetson/stetsonauth/AccountReadWriteTest.kt" timestamp="1586291181515">
+        <mark key="[" line="29" column="13" />
+        <mark key="]" line="29" column="19" />
+        <mark key="." line="29" column="19" />
+        <mark key="^" line="29" column="19" />
+      </file>
+      <file name="$USER_HOME$/Desktop/StudentAttendance/app/src/main/java/edu/stetson/StudentAttendanceApplication.kt" timestamp="1586287884728">
+        <mark key="[" line="4" column="35" />
+        <mark key="]" line="4" column="49" />
+        <mark key="^" line="4" column="49" />
+        <mark key="." line="4" column="49" />
+      </file>
+      <file name="/fragment.java" timestamp="1586289156829">
+        <mark key="[" line="0" column="0" />
+      </file>
+      <file name="$USER_HOME$/Documents/Work/AndroidApp/StetsonAuth/app/src/androidTest/java/edu/stetson/stetsonauth/LogHistoryAndroidUnitTest.kt" timestamp="1586282069922">
+        <mark key="'" line="16" column="0" />
+        <mark key="[" line="3" column="0" />
+        <mark key="]" line="3" column="0" />
+        <mark key="." line="3" column="0" />
+      </file>
+    </filemarks>
+    <jumps>
+      <jump line="105" column="8" filename="$USER_HOME$/Documents/Work/AndroidApp/StetsonAuth/app/src/main/res/layout/list_item_account.xml" />
+      <jump line="19" column="41" filename="$USER_HOME$/Documents/Work/AndroidApp/StetsonAuth/app/src/main/res/layout/fragment_account_list.xml" />
+      <jump line="37" column="47" filename="$USER_HOME$/Documents/Work/AndroidApp/StetsonAuth/app/src/main/java/edu/stetson/stetsonauth/MainActivity.kt" />
+      <jump line="144" column="16" filename="$USER_HOME$/Documents/Work/AndroidApp/StetsonAuth/app/src/main/java/edu/stetson/stetsonauth/fragments/account_list/FragmentAccountList.kt" />
+      <jump line="8" column="22" filename="$USER_HOME$/Documents/Work/AndroidApp/StetsonAuth/app/src/main/res/layout/fragment_account_list.xml" />
+      <jump line="8" column="16" filename="$USER_HOME$/Documents/Work/AndroidApp/StetsonAuth/app/src/main/java/edu/stetson/stetsonauth/fragments/account_list/FragmentAccountList.kt" />
+      <jump line="50" column="12" filename="$USER_HOME$/Documents/Work/AndroidApp/StetsonAuth/app/src/main/java/edu/stetson/stetsonauth/firebase/StetsonFirebaseMessagingService.kt" />
+      <jump line="92" column="32" filename="$USER_HOME$/Documents/Work/AndroidApp/StetsonAuth/app/src/main/java/edu/stetson/stetsonauth/firebase/StetsonFirebaseMessagingService.kt" />
+      <jump line="22" column="0" filename="$USER_HOME$/Documents/Work/AndroidApp/StetsonAuth/app/src/main/java/edu/stetson/stetsonauth/firebase/StetsonFirebaseMessagingService.kt" />
+      <jump line="31" column="0" filename="$USER_HOME$/Documents/Work/AndroidApp/StetsonAuth/app/src/main/java/edu/stetson/stetsonauth/ActionReceiver.kt" />
+      <jump line="147" column="22" filename="$USER_HOME$/Documents/Work/AndroidApp/StetsonAuth/app/src/main/java/edu/stetson/stetsonauth/fragments/account_list/FragmentAccountList.kt" />
+      <jump line="138" column="11" filename="$USER_HOME$/Documents/Work/AndroidApp/StetsonAuth/app/src/main/java/edu/stetson/stetsonauth/firebase/StetsonFirebaseMessagingService.kt" />
+      <jump line="34" column="41" filename="$USER_HOME$/Documents/Work/AndroidApp/StetsonAuth/app/src/main/res/layout/list_item_account.xml" />
+      <jump line="18" column="1" filename="$USER_HOME$/Documents/Work/AndroidApp/StetsonAuth/app/src/main/java/edu/stetson/stetsonauth/fragments/account_list/AccountListAdapter.kt" />
+      <jump line="32" column="41" filename="$USER_HOME$/Documents/Work/AndroidApp/StetsonAuth/app/src/main/java/edu/stetson/stetsonauth/fragments/account_list/AccountListAdapter.kt" />
+      <jump line="29" column="8" filename="$USER_HOME$/Documents/Work/AndroidApp/StetsonAuth/app/src/main/java/edu/stetson/stetsonauth/fragments/account_list/AccountListAdapter.kt" />
+      <jump line="74" column="0" filename="$USER_HOME$/Documents/Work/AndroidApp/StetsonAuth/app/src/main/java/edu/stetson/stetsonauth/fragments/account_list/FragmentAccountList.kt" />
+      <jump line="205" column="54" filename="$USER_HOME$/Documents/Work/AndroidApp/StetsonAuth/app/src/main/java/edu/stetson/stetsonauth/fragments/account_list/FragmentAccountList.kt" />
+      <jump line="80" column="0" filename="$USER_HOME$/Documents/Work/AndroidApp/StetsonAuth/app/src/main/java/edu/stetson/stetsonauth/firebase/StetsonFirebaseMessagingService.kt" />
+      <jump line="26" column="0" filename="$USER_HOME$/Documents/Work/AndroidApp/StetsonAuth/app/src/main/java/edu/stetson/stetsonauth/StetsonApplication.kt" />
+      <jump line="39" column="63" filename="$USER_HOME$/Documents/Work/AndroidApp/StetsonAuth/app/src/main/java/edu/stetson/stetsonauth/ActionReceiver.kt" />
+      <jump line="38" column="14" filename="$USER_HOME$/Documents/Work/AndroidApp/StetsonAuth/app/src/main/java/edu/stetson/stetsonauth/fragments/startup_message/FragmentStartupMessage.kt" />
+      <jump line="66" column="16" filename="$USER_HOME$/Documents/Work/AndroidApp/StetsonAuth/app/src/main/java/edu/stetson/stetsonauth/fragments/account_list/AccountListAdapter.kt" />
+      <jump line="112" column="26" filename="$USER_HOME$/Documents/Work/AndroidApp/StetsonAuth/app/src/main/java/edu/stetson/stetsonauth/biometric/StetsonBiometric.kt" />
+      <jump line="19" column="2" filename="$USER_HOME$/Documents/Work/AndroidApp/StetsonAuth/app/src/main/java/edu/stetson/stetsonauth/fragments/account_list/AccountListAdapter.kt" />
+      <jump line="66" column="36" filename="$USER_HOME$/Documents/Work/AndroidApp/StetsonAuth/app/src/main/res/layout/list_item_account.xml" />
+      <jump line="93" column="55" filename="$USER_HOME$/Documents/Work/AndroidApp/StetsonAuth/app/src/main/res/layout/list_item_account.xml" />
+      <jump line="73" column="33" filename="$USER_HOME$/Documents/Work/AndroidApp/StetsonAuth/app/src/main/res/layout/list_item_account.xml" />
+      <jump line="96" column="55" filename="$USER_HOME$/Documents/Work/AndroidApp/StetsonAuth/app/src/main/res/layout/list_item_account.xml" />
+      <jump line="119" column="33" filename="$USER_HOME$/Documents/Work/AndroidApp/StetsonAuth/app/src/main/res/layout/list_item_account.xml" />
+      <jump line="63" column="102" filename="$USER_HOME$/Documents/Work/AndroidApp/StetsonAuth/app/src/main/java/edu/stetson/stetsonauth/fragments/account_list/AccountListAdapter.kt" />
+      <jump line="0" column="0" filename="$USER_HOME$/Documents/Work/AndroidApp/StetsonAuth/app/src/main/java/edu/stetson/stetsonauth/fragments/account_list/AccountListAdapter.kt" />
+      <jump line="33" column="22" filename="$USER_HOME$/Documents/Work/AndroidApp/StetsonAuth/app/src/main/java/edu/stetson/stetsonauth/MainActivity.kt" />
+      <jump line="33" column="0" filename="$USER_HOME$/Documents/Work/AndroidApp/StetsonAuth/app/src/main/java/edu/stetson/stetsonauth/StetsonApplication.kt" />
+      <jump line="21" column="0" filename="$USER_HOME$/Documents/Work/AndroidApp/StetsonAuth/app/src/main/java/edu/stetson/stetsonauth/StetsonApplication.kt" />
+      <jump line="19" column="67" filename="$USER_HOME$/Documents/Work/AndroidApp/StetsonAuth/app/src/main/java/edu/stetson/stetsonauth/StetsonApplication.kt" />
+      <jump line="18" column="18" filename="$USER_HOME$/Documents/Work/AndroidApp/StetsonAuth/app/src/main/java/edu/stetson/stetsonauth/StetsonApplication.kt" />
+      <jump line="15" column="0" filename="$USER_HOME$/Documents/Work/AndroidApp/StetsonAuth/app/src/main/java/edu/stetson/stetsonauth/MainActivity.kt" />
+      <jump line="39" column="35" filename="$USER_HOME$/Documents/Work/AndroidApp/StetsonAuth/app/src/main/java/edu/stetson/stetsonauth/MainActivity.kt" />
+      <jump line="44" column="0" filename="$USER_HOME$/Documents/Work/AndroidApp/StetsonAuth/app/src/main/java/edu/stetson/stetsonauth/MainActivity.kt" />
+      <jump line="10" column="36" filename="$USER_HOME$/Documents/Work/AndroidApp/StetsonAuth/app/src/main/java/edu/stetson/stetsonauth/StetsonApplication.kt" />
+      <jump line="36" column="0" filename="$USER_HOME$/Documents/Work/AndroidApp/StetsonAuth/app/src/main/java/edu/stetson/stetsonauth/MainActivity.kt" />
+      <jump line="88" column="12" filename="$USER_HOME$/Documents/Work/AndroidApp/StetsonAuth/app/src/main/java/edu/stetson/stetsonauth/fragments/account_list/FragmentAccountList.kt" />
+      <jump line="20" column="0" filename="$USER_HOME$/Documents/Work/AndroidApp/StetsonAuth/app/src/main/java/edu/stetson/stetsonauth/fragments/account_push/AccountPushViewModel.kt" />
+      <jump line="59" column="88" filename="$USER_HOME$/Documents/Work/AndroidApp/StetsonAuth/app/src/main/java/edu/stetson/stetsonauth/fragments/account_list/FragmentAccountList.kt" />
+      <jump line="14" column="0" filename="$USER_HOME$/Documents/Work/AndroidApp/StetsonAuth/app/src/main/res/layout/list_item_account.xml" />
+      <jump line="203" column="0" filename="$USER_HOME$/Documents/Work/AndroidApp/StetsonAuth/app/src/main/java/edu/stetson/stetsonauth/fragments/account_list/FragmentAccountList.kt" />
+      <jump line="56" column="19" filename="$USER_HOME$/Documents/Work/AndroidApp/StetsonAuth/app/src/main/java/edu/stetson/stetsonauth/fragments/account_list/AccountListViewModel.kt" />
+      <jump line="151" column="13" filename="$USER_HOME$/Documents/Work/AndroidApp/StetsonAuth/app/src/main/java/edu/stetson/stetsonauth/fragments/account_list/AccountListViewModel.kt" />
+      <jump line="20" column="163" filename="$USER_HOME$/Documents/Work/AndroidApp/StetsonAuth/app/src/main/java/edu/stetson/stetsonauth/fragments/account_list/AccountListAdapter.kt" />
+      <jump line="111" column="4" filename="$USER_HOME$/Documents/Work/AndroidApp/StetsonAuth/app/src/main/java/edu/stetson/stetsonauth/fragments/account_list/AccountListAdapter.kt" />
+      <jump line="51" column="0" filename="$USER_HOME$/Documents/Work/AndroidApp/StetsonAuth/app/src/main/java/edu/stetson/stetsonauth/fragments/account_list/FragmentAccountList.kt" />
+      <jump line="73" column="25" filename="$USER_HOME$/Documents/Work/AndroidApp/StetsonAuth/app/src/main/java/edu/stetson/stetsonauth/firebase/StetsonFirebaseMessagingService.kt" />
+      <jump line="87" column="0" filename="$USER_HOME$/Documents/Work/AndroidApp/StetsonAuth/app/src/main/java/edu/stetson/stetsonauth/fragments/account_list/FragmentAccountList.kt" />
+      <jump line="130" column="18" filename="$USER_HOME$/Documents/Work/AndroidApp/StetsonAuth/app/src/main/java/edu/stetson/stetsonauth/fragments/account_list/FragmentAccountList.kt" />
+      <jump line="181" column="38" filename="$USER_HOME$/Documents/Work/AndroidApp/StetsonAuth/app/src/main/java/edu/stetson/stetsonauth/camera/BarcodeCaptureActivity.java" />
+      <jump line="85" column="41" filename="$USER_HOME$/Documents/Work/AndroidApp/StetsonAuth/app/src/main/res/layout/list_item_account.xml" />
+      <jump line="110" column="41" filename="$USER_HOME$/Documents/Work/AndroidApp/StetsonAuth/app/src/main/java/edu/stetson/stetsonauth/fragments/account_list/AccountListAdapter.kt" />
+      <jump line="6" column="22" filename="$USER_HOME$/Documents/Work/AndroidApp/StetsonAuth/app/src/main/java/edu/stetson/stetsonauth/ActionReceiver.kt" />
+      <jump line="116" column="8" filename="$USER_HOME$/Documents/Work/AndroidApp/StetsonAuth/app/src/main/java/edu/stetson/stetsonauth/networking/AccountService.kt" />
+      <jump line="21" column="34" filename="$USER_HOME$/Documents/Work/AndroidApp/StetsonAuth/app/src/main/java/edu/stetson/stetsonauth/networking/AccountApiService.kt" />
+      <jump line="3" column="0" filename="$USER_HOME$/Documents/Work/AndroidApp/StetsonAuth/app/src/main/java/edu/stetson/stetsonauth/networking/AccountApiService.kt" />
+      <jump line="5" column="0" filename="$USER_HOME$/Documents/Work/AndroidApp/StetsonAuth/app/src/main/java/edu/stetson/stetsonauth/networking/AccountApiService.kt" />
+      <jump line="12" column="0" filename="$USER_HOME$/Documents/Work/AndroidApp/StetsonAuth/app/src/main/java/edu/stetson/stetsonauth/networking/AccountApiService.kt" />
+      <jump line="32" column="15" filename="$USER_HOME$/Documents/Work/AndroidApp/StetsonAuth/app/src/main/java/edu/stetson/stetsonauth/networking/AccountApiService.kt" />
+      <jump line="179" column="0" filename="$USER_HOME$/Documents/Work/AndroidApp/StetsonAuth/app/src/main/java/edu/stetson/stetsonauth/networking/AccountService.kt" />
+      <jump line="34" column="17" filename="$USER_HOME$/Documents/Work/AndroidApp/StetsonAuth/app/src/main/java/edu/stetson/stetsonauth/networking/AccountApiService.kt" />
+      <jump line="0" column="0" filename="$USER_HOME$/Documents/Work/AndroidApp/StetsonAuth/app/src/main/java/edu/stetson/stetsonauth/networking/AccountApiService.kt" />
+      <jump line="44" column="0" filename="$USER_HOME$/Documents/Work/AndroidApp/StetsonAuth/app/src/main/java/edu/stetson/stetsonauth/networking/AccountApiService.kt" />
+      <jump line="28" column="0" filename="$USER_HOME$/Documents/Work/AndroidApp/StetsonAuth/app/src/main/java/edu/stetson/stetsonauth/networking/AccountApiService.kt" />
+      <jump line="13" column="28" filename="$USER_HOME$/Documents/Work/AndroidApp/StetsonAuth/app/src/main/java/edu/stetson/stetsonauth/networking/AccountApiService.kt" />
+      <jump line="36" column="4" filename="$USER_HOME$/Documents/Work/AndroidApp/StetsonAuth/app/src/main/java/edu/stetson/stetsonauth/networking/AccountApiService.kt" />
+      <jump line="178" column="0" filename="$USER_HOME$/Documents/Work/AndroidApp/StetsonAuth/app/src/main/java/edu/stetson/stetsonauth/networking/AccountService.kt" />
+      <jump line="17" column="11" filename="$USER_HOME$/Documents/Work/AndroidApp/StetsonAuth/app/src/main/java/edu/stetson/stetsonauth/database/Account.kt" />
+      <jump line="113" column="37" filename="$USER_HOME$/Documents/Work/AndroidApp/StetsonAuth/app/src/main/java/edu/stetson/stetsonauth/fragments/account_list/AccountListViewModel.kt" />
+      <jump line="148" column="8" filename="$USER_HOME$/Documents/Work/AndroidApp/StetsonAuth/app/src/main/java/edu/stetson/stetsonauth/fragments/account_list/AccountListViewModel.kt" />
+      <jump line="61" column="0" filename="$USER_HOME$/Documents/Work/AndroidApp/StetsonAuth/app/build.gradle" />
+      <jump line="56" column="30" filename="$USER_HOME$/Documents/Work/AndroidApp/StetsonAuth/app/src/test/java/edu/stetson/stetsonauth/APIServiceTest.kt" />
+      <jump line="40" column="9" filename="$USER_HOME$/Documents/Work/AndroidApp/StetsonAuth/app/src/test/java/edu/stetson/stetsonauth/APIServiceTest.kt" />
+      <jump line="57" column="0" filename="$USER_HOME$/Documents/Work/AndroidApp/StetsonAuth/app/build.gradle" />
+      <jump line="66" column="8" filename="$USER_HOME$/Documents/Work/AndroidApp/StetsonAuth/app/src/test/java/edu/stetson/stetsonauth/APIServiceTest.kt" />
+      <jump line="64" column="32" filename="$USER_HOME$/Documents/Work/AndroidApp/StetsonAuth/app/src/test/java/edu/stetson/stetsonauth/APIServiceTest.kt" />
+      <jump line="0" column="0" filename="$USER_HOME$/Documents/Work/AndroidApp/StetsonAuth/app/src/test/java/edu/stetson/stetsonauth/APIServiceTest.kt" />
+      <jump line="23" column="6" filename="$USER_HOME$/Documents/Work/AndroidApp/StetsonAuth/app/src/test/java/edu/stetson/stetsonauth/APIServiceTest.kt" />
+      <jump line="4" column="0" filename="$USER_HOME$/Documents/Work/AndroidApp/StetsonAuth/app/src/androidTest/java/edu/stetson/stetsonauth/APIServiceTest.kt" />
+      <jump line="7" column="19" filename="$USER_HOME$/Documents/Work/AndroidApp/StetsonAuth/app/src/androidTest/java/edu/stetson/stetsonauth/MockTest.kt" />
+      <jump line="8" column="7" filename="$USER_HOME$/Documents/Work/AndroidApp/StetsonAuth/app/src/androidTest/java/edu/stetson/stetsonauth/MockTest.kt" />
+      <jump line="16" column="46" filename="$USER_HOME$/Documents/Work/AndroidApp/StetsonAuth/app/build.gradle" />
+      <jump line="3" column="0" filename="$USER_HOME$/Documents/Work/AndroidApp/StetsonAuth/app/src/androidTest/java/edu/stetson/stetsonauth/LogHistoryAndroidUnitTest.kt" />
+      <jump line="51" column="1" filename="$USER_HOME$/Documents/Work/AndroidApp/StetsonAuth/app/src/androidTest/java/edu/stetson/stetsonauth/LogHistoryAndroidUnitTest.kt" />
+      <jump line="21" column="44" filename="$USER_HOME$/Documents/Work/AndroidApp/StetsonAuth/app/build.gradle" />
+      <jump line="17" column="0" filename="$USER_HOME$/Documents/Work/AndroidApp/StetsonAuth/app/src/androidTest/java/edu/stetson/stetsonauth/LogHistoryAndroidUnitTest.kt" />
+      <jump line="93" column="64" filename="$USER_HOME$/Documents/Work/AndroidApp/StetsonAuth/app/build.gradle" />
+      <jump line="49" column="54" filename="$USER_HOME$/Documents/Work/AndroidApp/StetsonAuth/app/build.gradle" />
+      <jump line="40" column="8" filename="$USER_HOME$/Documents/Work/AndroidApp/StetsonAuth/app/build.gradle" />
+      <jump line="23" column="24" filename="$USER_HOME$/Documents/Work/AndroidApp/StetsonAuth/app/src/androidTest/java/edu/stetson/stetsonauth/MockTest.kt" />
+      <jump line="156" column="0" filename="$USER_HOME$/Documents/Work/AndroidApp/StetsonAuth/app/src/main/java/edu/stetson/stetsonauth/networking/AccountService.kt" />
+      <jump line="218" column="0" filename="$USER_HOME$/Documents/Work/AndroidApp/StetsonAuth/app/src/main/java/edu/stetson/stetsonauth/fragments/account_list/AccountListViewModel.kt" />
+      <jump line="64" column="0" filename="$USER_HOME$/Documents/Work/AndroidApp/StetsonAuth/app/src/androidTest/java/edu/stetson/stetsonauth/MockTest.kt" />
+      <jump line="104" column="56" filename="$USER_HOME$/Documents/Work/AndroidApp/StetsonAuth/app/build.gradle" />
+    </jumps>
+  </component>
+  <component name="VimRegisterSettings">
+    <registers>
+      <register name="&quot;" type="4">
+        <text encoding="base64">IA==</text>
+      </register>
+      <register name="i" type="4">
+        <text>Fragments were null</text>
+      </register>
+      <register name="-" type="4">
+        <text encoding="base64">IA==</text>
+      </register>
+      <register name="/" type="4">
+        <text>debug</text>
+      </register>
+      <register name="0" type="2">
+        <text encoding="base64">ICAgICAgICBhc3NlcnRUaGF0KHJldHJpZXZlZEFjY291bnQudXNlcm5hbWUpLmlzRXF1YWxUbyhhY2NvdW50LnVzZXJuYW1lKQo=</text>
+      </register>
+      <register name="1" type="2">
+        <text encoding="base64">ICAgIHZhbCBhY2NvdW50SWQ6IExvbmc/ID0gbnVsbCwK</text>
+      </register>
+      <register name="2" type="2">
+        <text encoding="base64">ICAgIHZhbCBhY2NvdW50SWQ6IExvbmc/ID0gbnVsbCwK</text>
+      </register>
+      <register name="r" type="4">
+        <text>e</text>
+      </register>
+      <register name="3" type="2">
+        <text encoding="base64">ICAgICAgICBhY2NvdW50SWQgPSBwYXJjZWwucmVhZExvbmcoKSwK</text>
+      </register>
+      <register name="4" type="2">
+        <text encoding="base64">ICAgIEBQcmltYXJ5S2V5KGF1dG9HZW5lcmF0ZSA9IHRydWUpCg==</text>
+      </register>
+      <register name="5" type="2">
+        <text encoding="base64">ZGF0YSBjbGFzcyBBY2NvdW50KAo=</text>
+      </register>
+      <register name="6" type="2">
+        <text encoding="base64">ICAgIEBDb2x1bW5JbmZvKG5hbWUgPSAiYWNjb3VudF9pZCIpCiAgICB2YWwgYWNjb3VudElkOiBMb25nPyA9IG51bGwsCg==</text>
+      </register>
+      <register name="7" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgdmFsIGlzc3VlciA9ICJzdGV0c29uIgo=</text>
+      </register>
+      <register name="8" type="2">
+        <text encoding="base64">ICAgICAgICBMaXN0PEFjY291bnQ+IAo=</text>
+      </register>
+      <register name="9" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgYWNjb3VudERhby5pbnNlcnQoYWNjb3VudCkK</text>
+      </register>
+    </registers>
+  </component>
+  <component name="VimSearchSettings">
+    <search>
+      <last-search>debug</last-search>
+      <last-offset />
+      <last-pattern>debug</last-pattern>
+      <last-replace>~</last-replace>
+      <last-substitute>test</last-substitute>
+      <last-dir>1</last-dir>
+      <show-last>false</show-last>
+    </search>
+  </component>
+  <component name="VimSettings">
+    <state version="6" enabled="true" />
     <notifications>
       <idea-join enabled="false" />
       <idea-put enabled="false" />

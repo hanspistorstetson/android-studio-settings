@@ -116,6 +116,9 @@
         <mark key="." line="34" column="70" />
         <mark key="^" line="34" column="70" />
       </file>
+      <file name="/Dummy.txt" timestamp="1588272298677">
+        <mark key="[" line="0" column="0" />
+      </file>
       <file name="$USER_HOME$/Documents/Work/AndroidApp/StetsonAuth/app/src/main/java/edu/stetson/stetsonauth/fragments/account_list/AccountListViewModel.kt" timestamp="1586289998852">
         <mark key="'" line="218" column="0" />
       </file>
@@ -171,11 +174,6 @@
         <mark key="]" line="68" column="34" />
         <mark key="." line="51" column="11" />
         <mark key="^" line="51" column="11" />
-      </file>
-      <file name="$USER_HOME$/Documents/Work/AndroidApp/StetsonAuth/app/src/androidTest/java/edu/stetson/stetsonauth/APITest.kt" timestamp="1586281598799">
-        <mark key="[" line="0" column="0" />
-        <mark key="]" line="0" column="0" />
-        <mark key="." line="0" column="0" />
       </file>
       <file name="$USER_HOME$/Desktop/StudentAttendance/app/src/test/java/edu/stetson/login/LoginPresenterTest.groovy" timestamp="1586289203346">
         <mark key="[" line="4" column="26" />

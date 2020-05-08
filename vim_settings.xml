@@ -196,12 +196,12 @@
         <mark key="." line="4" column="34" />
         <mark key="^" line="4" column="34" />
       </file>
-      <file name="$USER_HOME$/Documents/Work/AndroidApp/StetsonAuth/app/src/test/java/edu/stetson/stetsonauth/AccountValidatorTest.kt" timestamp="1588959712076">
-        <mark key="'" line="6" column="50" />
-        <mark key="[" line="3" column="0" />
-        <mark key="]" line="4" column="21" />
-        <mark key="." line="3" column="0" />
-        <mark key="^" line="41" column="66" />
+      <file name="$USER_HOME$/Documents/Work/AndroidApp/StetsonAuth/app/src/test/java/edu/stetson/stetsonauth/AccountValidatorTest.kt" timestamp="1588962512845">
+        <mark key="'" line="2" column="50" />
+        <mark key="[" line="31" column="18" />
+        <mark key="]" line="31" column="19" />
+        <mark key="." line="31" column="18" />
+        <mark key="^" line="31" column="19" />
       </file>
       <file name="$USER_HOME$/Documents/Work/AndroidApp/StetsonAuth/app/src/main/java/edu/stetson/stetsonauth/utils/NameValidator.kt" timestamp="1588959343167">
         <mark key="[" line="12" column="9" />
@@ -324,13 +324,13 @@
   <component name="VimRegisterSettings">
     <registers>
       <register name="&quot;" type="4">
-        <text>1000</text>
+        <text>i</text>
       </register>
       <register name="i" type="4">
         <text>Fragments were null</text>
       </register>
       <register name="-" type="4">
-        <text>1000</text>
+        <text>i</text>
       </register>
       <register name="/" type="4">
         <text>debug</text>

@@ -117,6 +117,65 @@
         <mark key="." line="34" column="70" />
         <mark key="^" line="34" column="70" />
       </file>
+      <file name="$USER_HOME$/Desktop/StudentAttendance/app/src/main/AndroidManifest.xml" timestamp="1586287974568">
+        <mark key="[" line="4" column="16" />
+        <mark key="]" line="5" column="50" />
+        <mark key="^" line="5" column="50" />
+        <mark key="." line="5" column="50" />
+      </file>
+      <file name="$USER_HOME$/Documents/Work/AndroidApp/StetsonAuth/app/src/main/java/edu/stetson/stetsonauth/database/Account.kt" timestamp="1588957785147">
+        <mark key="[" line="48" column="5" />
+        <mark key="]" line="49" column="4" />
+        <mark key="." line="49" column="3" />
+        <mark key="^" line="49" column="4" />
+      </file>
+      <file name="$USER_HOME$/Documents/Work/AndroidApp/StetsonAuth/app/src/androidTest/java/edu/stetson/stetsonauth/TestUtil.kt" timestamp="1586291318400">
+        <mark key="[" line="8" column="27" />
+        <mark key="]" line="8" column="27" />
+        <mark key="." line="8" column="27" />
+        <mark key="^" line="8" column="32" />
+      </file>
+      <file name="$USER_HOME$/Documents/Work/AndroidApp/StetsonAuth/app/build.gradle" timestamp="1588960523155">
+        <mark key="'" line="117" column="56" />
+        <mark key="[" line="110" column="4" />
+        <mark key="]" line="110" column="5" />
+        <mark key="^" line="114" column="57" />
+        <mark key="." line="110" column="5" />
+      </file>
+      <file name="$USER_HOME$/Desktop/AndroidKotlinBoilerplate/app/src/main/java/com/ankitsharma/androidkotlinboilerplate/common/BaseViewModel.kt" timestamp="1588272433437">
+        <mark key="[" line="15" column="72" />
+        <mark key="]" line="19" column="5" />
+        <mark key="^" line="19" column="5" />
+        <mark key="." line="19" column="4" />
+      </file>
+      <file name="$USER_HOME$/Documents/Work/AndroidApp/StetsonAuth/app/src/androidTest/java/edu/stetson/stetsonauth/MockTest.kt" timestamp="1588958777111">
+        <mark key="'" line="0" column="0" />
+        <mark key="[" line="64" column="0" />
+        <mark key="]" line="68" column="34" />
+        <mark key="." line="51" column="11" />
+        <mark key="^" line="51" column="11" />
+      </file>
+      <file name="$USER_HOME$/Desktop/StudentAttendance/app/src/test/java/edu/stetson/login/LoginPresenterTest.groovy" timestamp="1586289203346">
+        <mark key="[" line="4" column="26" />
+      </file>
+      <file name="$USER_HOME$/Desktop/StudentAttendance/app/src/main/java/edu/stetson/login/LoginPresenter.kt" timestamp="1586289671438">
+        <mark key="[" line="13" column="67" />
+        <mark key="]" line="16" column="19" />
+        <mark key="." line="16" column="19" />
+        <mark key="^" line="16" column="19" />
+      </file>
+      <file name="$USER_HOME$/Desktop/StudentAttendance/app/src/main/java/edu/stetson/StudentAttendanceApplication.kt" timestamp="1586287884728">
+        <mark key="[" line="4" column="35" />
+        <mark key="]" line="4" column="49" />
+        <mark key="^" line="4" column="49" />
+        <mark key="." line="4" column="49" />
+      </file>
+      <file name="$USER_HOME$/Documents/Work/AndroidApp/StetsonAuth/app/src/main/java/edu/stetson/stetsonauth/camera/BarcodeCaptureActivity.java" timestamp="1588959467821">
+        <mark key="[" line="108" column="85" />
+        <mark key="]" line="109" column="24" />
+        <mark key="." line="109" column="23" />
+        <mark key="^" line="109" column="24" />
+      </file>
       <file name="/Dummy.txt" timestamp="1588272298677">
         <mark key="[" line="0" column="0" />
       </file>
@@ -131,92 +190,34 @@
         <mark key="." line="4" column="34" />
         <mark key="^" line="4" column="34" />
       </file>
-      <file name="$USER_HOME$/Desktop/StudentAttendance/app/src/main/AndroidManifest.xml" timestamp="1586287974568">
-        <mark key="[" line="4" column="16" />
-        <mark key="]" line="5" column="50" />
-        <mark key="^" line="5" column="50" />
-        <mark key="." line="5" column="50" />
+      <file name="$USER_HOME$/Documents/Work/AndroidApp/StetsonAuth/app/src/test/java/edu/stetson/stetsonauth/AccountValidatorTest.kt" timestamp="1588959712076">
+        <mark key="'" line="6" column="50" />
+        <mark key="[" line="3" column="0" />
+        <mark key="]" line="4" column="21" />
+        <mark key="." line="3" column="0" />
+        <mark key="^" line="41" column="66" />
       </file>
-      <file name="$USER_HOME$/Documents/Work/AndroidApp/StetsonAuth/app/src/main/java/edu/stetson/stetsonauth/database/Account.kt" timestamp="1588957785147">
-        <mark key="[" line="48" column="5" />
-        <mark key="]" line="49" column="4" />
-        <mark key="." line="49" column="3" />
-        <mark key="^" line="49" column="4" />
-      </file>
-      <file name="$USER_HOME$/Documents/Work/AndroidApp/StetsonAuth/app/src/main/java/edu/stetson/stetsonauth/firebase/StetsonFirebaseMessagingService.kt" timestamp="1586282633241">
-        <mark key="'" line="72" column="25" />
-        <mark key="[" line="37" column="0" />
-        <mark key="]" line="37" column="0" />
-        <mark key="^" line="174" column="51" />
-        <mark key="." line="37" column="0" />
-      </file>
-      <file name="$USER_HOME$/Documents/Work/AndroidApp/StetsonAuth/app/src/androidTest/java/edu/stetson/stetsonauth/TestUtil.kt" timestamp="1586291318400">
-        <mark key="[" line="8" column="27" />
-        <mark key="]" line="8" column="27" />
-        <mark key="." line="8" column="27" />
-        <mark key="^" line="8" column="32" />
-      </file>
-      <file name="$USER_HOME$/Documents/Work/AndroidApp/StetsonAuth/app/build.gradle" timestamp="1588959152179">
-        <mark key="'" line="115" column="56" />
-        <mark key="[" line="110" column="45" />
-        <mark key="]" line="110" column="46" />
-        <mark key="^" line="112" column="57" />
-        <mark key="." line="110" column="46" />
-      </file>
-      <file name="$USER_HOME$/Desktop/StudentAttendance/app/src/main/java/edu/stetson/MainActivity.kt" timestamp="1586287732409">
-        <mark key="[" line="5" column="7" />
-      </file>
-      <file name="$USER_HOME$/Desktop/AndroidKotlinBoilerplate/app/src/main/java/com/ankitsharma/androidkotlinboilerplate/common/BaseViewModel.kt" timestamp="1588272433437">
-        <mark key="[" line="15" column="72" />
-        <mark key="]" line="19" column="5" />
-        <mark key="^" line="19" column="5" />
-        <mark key="." line="19" column="4" />
+      <file name="$USER_HOME$/Documents/Work/AndroidApp/StetsonAuth/app/src/main/java/edu/stetson/stetsonauth/utils/NameValidator.kt" timestamp="1588959343167">
+        <mark key="[" line="12" column="9" />
+        <mark key="]" line="15" column="41" />
+        <mark key="^" line="15" column="41" />
+        <mark key="." line="15" column="40" />
       </file>
       <file name="$USER_HOME$/Desktop/StudentAttendance/app/src/main/java/edu/stetson/LoginActivity.kt" timestamp="1586287797466">
         <mark key="]" line="11" column="1" />
         <mark key="^" line="11" column="1" />
         <mark key="." line="11" column="1" />
       </file>
-      <file name="$USER_HOME$/Documents/Work/AndroidApp/StetsonAuth/app/src/androidTest/java/edu/stetson/stetsonauth/MockTest.kt" timestamp="1588958777111">
-        <mark key="'" line="0" column="0" />
-        <mark key="[" line="64" column="0" />
-        <mark key="]" line="68" column="34" />
-        <mark key="." line="51" column="11" />
-        <mark key="^" line="51" column="11" />
-      </file>
-      <file name="$USER_HOME$/Desktop/StudentAttendance/app/src/test/java/edu/stetson/login/LoginPresenterTest.groovy" timestamp="1586289203346">
-        <mark key="[" line="4" column="26" />
-      </file>
-      <file name="$USER_HOME$/Documents/Work/AndroidApp/StetsonAuth/app/src/main/java/edu/stetson/stetsonauth/networking/AccountService.kt" timestamp="1586286918634">
-        <mark key="'" line="175" column="0" />
-        <mark key="[" line="136" column="0" />
-        <mark key="]" line="173" column="13" />
-        <mark key="^" line="200" column="4" />
-        <mark key="." line="200" column="0" />
-      </file>
-      <file name="$USER_HOME$/Desktop/StudentAttendance/app/src/main/java/edu/stetson/login/LoginPresenter.kt" timestamp="1586289671438">
-        <mark key="[" line="13" column="67" />
-        <mark key="]" line="16" column="19" />
-        <mark key="." line="16" column="19" />
-        <mark key="^" line="16" column="19" />
-      </file>
       <file name="$USER_HOME$/Documents/Work/AndroidApp/StetsonAuth/app/src/androidTest/java/edu/stetson/stetsonauth/AccountReadWriteTest.kt" timestamp="1588958885704">
         <mark key="[" line="42" column="0" />
         <mark key="]" line="42" column="0" />
         <mark key="." line="42" column="0" />
       </file>
-      <file name="$USER_HOME$/Desktop/StudentAttendance/app/src/main/java/edu/stetson/StudentAttendanceApplication.kt" timestamp="1586287884728">
-        <mark key="[" line="4" column="35" />
-        <mark key="]" line="4" column="49" />
-        <mark key="^" line="4" column="49" />
-        <mark key="." line="4" column="49" />
-      </file>
-      <file name="/fragment.java" timestamp="1588272581618">
+      <file name="/fragment.java" timestamp="1588959243938">
         <mark key="[" line="0" column="0" />
       </file>
     </filemarks>
     <jumps>
-      <jump line="8" column="22" filename="$USER_HOME$/Documents/Work/AndroidApp/StetsonAuth/app/src/main/res/layout/fragment_account_list.xml" />
       <jump line="8" column="16" filename="$USER_HOME$/Documents/Work/AndroidApp/StetsonAuth/app/src/main/java/edu/stetson/stetsonauth/fragments/account_list/FragmentAccountList.kt" />
       <jump line="50" column="12" filename="$USER_HOME$/Documents/Work/AndroidApp/StetsonAuth/app/src/main/java/edu/stetson/stetsonauth/firebase/StetsonFirebaseMessagingService.kt" />
       <jump line="92" column="32" filename="$USER_HOME$/Documents/Work/AndroidApp/StetsonAuth/app/src/main/java/edu/stetson/stetsonauth/firebase/StetsonFirebaseMessagingService.kt" />
@@ -316,54 +317,55 @@
       <jump line="0" column="0" filename="$USER_HOME$/Documents/Work/AndroidApp/StetsonAuth/app/src/androidTest/java/edu/stetson/stetsonauth/MockTest.kt" />
       <jump line="15" column="8" filename="$USER_HOME$/Documents/Work/AndroidApp/StetsonAuth/app/src/test/java/edu/stetson/stetsonauth/APITest.kt" />
       <jump line="14" column="17" filename="$USER_HOME$/Documents/Work/AndroidApp/StetsonAuth/app/src/test/java/edu/stetson/stetsonauth/APITest.kt" />
+      <jump line="4" column="50" filename="$USER_HOME$/Documents/Work/AndroidApp/StetsonAuth/app/src/test/java/edu/stetson/stetsonauth/AccountValidatorTest.kt" />
     </jumps>
   </component>
   <component name="VimRegisterSettings">
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgIHRlc3RJbQo=</text>
+      <register name="&quot;" type="4">
+        <text>d</text>
       </register>
       <register name="i" type="4">
         <text>Fragments were null</text>
       </register>
       <register name="-" type="4">
-        <text>account.issuer</text>
+        <text>d</text>
       </register>
       <register name="/" type="4">
         <text>debug</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICBhc3NlcnRUaGF0KHJldHJpZXZlZEFjY291bnQuaXNzdWVyKS5pc0VxdWFsVG8oYWNjb3VudC5pc3N1ZXIpCg==</text>
+        <text encoding="base64">ICAgIGFuZHJvaWRUZXN0SW1wbGVtZW50YXRpb24gJ2NvbS5nb29nbGUudHJ1dGg6dHJ1dGg6MS4wLjEnCiAgICBhbmRyb2lkVGVzdEltcGxlbWVudGF0aW9uICdjb20uZ29vZ2xlLnRydXRoLmV4dGVuc2lvbnM6dHJ1dGgtamF2YTgtZXh0ZW5zaW9uOjEuMC4xJwo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgIHRlc3RJbQo=</text>
+        <text encoding="base64">aW1wb3J0IGNvbS5nb29nbGUuY29tbW9uLnRydXRoLlRydXRoLmFzc2VydFRoYXQKaW1wb3J0IG9yZy5qdW5pdC5UZXN0Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgIEBUZXN0CiAgICBmdW4gCg==</text>
+        <text encoding="base64">ICAgIGtrCg==</text>
       </register>
       <register name="r" type="4">
         <text>e</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">aW1wb3J0IG9yZy5qdW5pdC5BZnRlcgppbXBvcnQgb3JnLmp1bml0LlRlc3QK</text>
+        <text encoding="base64">ICAgICAgICAK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgIH0K</text>
+        <text encoding="base64">ICAgIAo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgIGZ1biBzZXR1cCgpIHsKICAgIH0KCiAgICBAQWZ0ZXIKICAgIGZ1biB0ZWFyZG93bigpIHsKICAgIH0KCiAgICBAVGVzdAogICAgZnVuIHNhbXBsZVRlc3QoKSB7CiAgICAgICAgYXNzZXJ0VGhhdCh0cnVlKS5pc0VxdWFsVG8oKQo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgU3RyaW5nIGlzc3VlciA9IGFjY291bnRJc3N1ZXJUZXh0LmdldFRleHQoKS50b1N0cmluZygpOwogICAgICAgICAgICAgICAgICAgICAgICBTdHJpbmcgdXNlcm5hbWUgPSBhY2NvdW50TmFtZVRleHQuZ2V0VGV4dCgpLnRvU3RyaW5nKCk7CiAgICAgICAgICAgICAgICAgICAgICAgIFN0cmluZyBzZWNyZXRLZXkgPSBhY2NvdW50U2VjcmV0S2V5VGV4dC5nZXRUZXh0KCkudG9TdHJpbmcoKTsKCg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">aW1wb3J0IG9yZy5qdW5pdC5BZnRlcgppbXBvcnQgb3JnLmp1bml0LlRlc3QK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgaWYgKGFjY291bnROYW1lVGV4dC5nZXRUZXh0KCkudG9TdHJpbmcoKS5sZW5ndGgoKSA8IDMpIHsK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICBhc3NlcnRUaGF0Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgQQo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICBrCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgaWYgKGFjY291bnRJc3N1ZXJUZXh0LmdldFRleHQoKS50b1N0cmluZygpLmxlbmd0aCgpIDwgMykgewo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ago=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgU3RyaW5nIHVzZXJuYW1lID0gYWNjb3VudFNlY3JldEtleVRleHQuZ2V0VGV4dCgpLnRvU3RyaW5nKCk7Cg==</text>
       </register>
     </registers>
   </component>
